@@ -5,11 +5,11 @@ title: "Teaching"
 
 ### University of Maryland Baltimore County (2023 -- )
 - **CMSC 471: Introduction to Artificial Intelligence**
-    - [Spring'24](https://umbc-cmsc471.github.io/spring2024/)![GritView Rating](/images/review/478-sp24.png)
-    - [Fall'23](https://umbc-cmsc471.github.io/fall2023-public/)![GritView Rating](/images/review/478-fa23.png)
+    - [Spring'24](https://umbc-cmsc471.github.io/spring2024/)![GritView Rating](/images/review/471-sp24.png)
+    - [Fall'23](https://umbc-cmsc471.github.io/fall2023-public/)![GritView Rating](/images/review/471-fa23.png)
 - **CMSC 478: Introduction to Machine Learning**
-    - [Spring'24](https://umbc-cmsc478.github.io/spring2024/)![GritView Rating](/images/review/471-sp24.png)
-    - [Fall'23](https://umbc-cmsc478.github.io/fall2023-public/)![GritView Rating](/images/review/471-fa23.png)
+    - [Spring'24](https://umbc-cmsc478.github.io/spring2024/)![GritView Rating](/images/review/478-sp24.png)
+    - [Fall'23](https://umbc-cmsc478.github.io/fall2023-public/)![GritView Rating](/images/review/478-fa23.png)
 
 ### Purdue University (2016 -- 23)
 - [CS 59000BB: Situation Awareness, Adversarial ML, and Explainable AI](https://www.cs.purdue.edu/homes/bb/2020-fall-cs590bb/),  Fall 2020 <br>
