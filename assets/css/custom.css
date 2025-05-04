@@ -1,0 +1,45 @@
+
+.project-showcase {
+  display: flex;
+  align-items: flex-start;
+  background-color: #f9f9f9;
+  padding: 1.5rem;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.05);
+}
+
+.project-showcase img {
+  max-width: 320px;
+  border-radius: 8px;
+  margin-right: 2rem;
+}
+
+.project-text {
+  max-width: 700px;
+}
+
+.project-text h3 {
+  margin-top: 0;
+  font-size: 1.4rem;
+}
+
+.project-text p {
+  margin: 0.4rem 0;
+  line-height: 1.5;
+}
+
+.project-text .links a {
+  margin-right: 1rem;
+  text-decoration: none;
+}
+/* 
+body::before {
+  content: "✅ Custom CSS is active";
+  display: block;
+  background: #def;
+  color: #000;
+  text-align: center;
+  font-weight: bold;
+  padding: 0.5rem;
+} */
