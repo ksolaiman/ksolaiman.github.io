@@ -8,7 +8,7 @@ venue: 'NGC TechFest'
 venue-type: 'Poster'
 research-category: 'Multimodal Information Retrieval'
 website-separation-category: 'c2'
-pdf: '/files/publications/tech-fest-poster-2019.pdf' 
+poster: '/files/publications/tech-fest-poster-2019.pdf' 
 
 link: 'http://dx.doi.org/10.13140/RG.2.2.16612.04484'
 

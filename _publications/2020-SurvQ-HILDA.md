@@ -16,12 +16,7 @@ video: 'https://youtu.be/qPO73mGXqds'
 
 authors: 'Michael Stonebraker, Bharat Bhargava, Michael Cafarella, Zachary Collins, Jenna McClellan, Aaron Sipser, Tao Sun, Alina Nesen, <b><u>KMA Solaiman</u></b>, Ganapathy Mani, Kevin Kochpatcharin, Pelin Angin, and James MacDonald'
 
-citation: 'M. Stonebraker et al., “Surveillance video querying with a
-human-in-the-loop,” in Proc.
-Workshop on Human-in-the-Loop
-Data Anal. (HILDA 20), Portland,
-OR, USA, Jun. 14–19, 2020, doi:
-10.1145/3398730.3399192.'
+citation: 'M. Stonebraker et al., “Surveillance video querying with a human-in-the-loop,” in Proc. Workshop on Human-in-the-Loop Data Anal. (HILDA 20), Portland, OR, USA, Jun. 14–19, 2020, doi: 10.1145/3398730.3399192.'
 # poster
 # pdf
 # dataset

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/symposiums-posters/novelty-difficulty-monopoly
 # date: 2020-06-08
 year: 2022
-venue: 'AAAI Spring Symposium on Designing Artificial Intelligence for Open Worlds'
+venue: 'AAAI Spring Symposium' # on Designing Artificial Intelligence for Open Worlds
 venue-type: 'Symposium'
 research-category: 'Novelties in Learning Algorithms'
 website-separation-category: 'c1' #'c2'

@@ -1,16 +1,16 @@
 ---
-title: "Minimal Parameter Clustering of Complex Shape Dataset with High Dimensional Dataset Compatibility"
+title: "Minimal Parameter Clustering of Complex Shape Dataset with High Dimensional Dataset Compatibility (MPCACS)"
 collection: publications 
 permalink: /publications/ug-misc/thesis
 # date: 2020-06-08
 year: 2014
-venue: 'BUET Undergraduate Thesis Poster Presentation'
+venue: 'BUET Thesis Poster Presentation'
 venue-type: 'Poster'
 research-category: 'Unsupervised Learning'
 website-separation-category: 'c3'
 
 # pdf: '/files/publications/thesis-poster-2014.pdf'
-
+poster: '/files/publications/thesis-poster-2014.pdf'
 link: 'http://dx.doi.org/10.13140/RG.2.2.27359.94881' 
 
 
