@@ -1,0 +1,60 @@
+{% include base_path %}
+
+<div class="card" id="{{ include.post.internal-link }}" style="padding: 1em 1em 1em 1em; margin-top: 0; margin-bottom: 1em; border: 1px solid #ccc; border-radius: 6px;">
+  <h3 id="{{ include.post.internal-link }}" style="margin: 0 0 0.4em 0;">
+    {{ include.post.title }}
+  </h3>
+
+  <div style="margin-bottom: 0.4em;">
+    {{ include.post.description }}
+  </div>
+
+  {% if include.post.researchers %}
+    <div style="margin-bottom: 0.4em;">
+      <strong>Current Researchers:</strong> {{ include.post.researchers }}
+    </div>
+  {% endif %}
+
+  {% if include.post.publication_slug %}
+    <div style="margin-bottom: 0.3em;"><strong>Related Publications:</strong></div>
+
+    {% assign pubs = "" | split: "" %}
+    {% for slug in include.post.publication_slug %}
+      {% assign cleaned_slug = slug | remove: ".md" %}
+      {% assign pub = site.publications | where: "slug", cleaned_slug | first %}
+      {% if pub %}
+        {% assign pubs = pubs | push: pub %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign pubs = pubs | sort: "year" | reverse %}
+
+    <ul style="padding-left: 1.2em; margin: 0 0 0.2em 0;">
+      {% for pub in pubs %}
+        {% assign pub_link = pub.pdf %}
+        {% if pub_link == nil or pub_link == "" %}
+          {% assign pub_link = pub.poster %}
+        {% endif %}
+
+        <li style="margin-bottom: 0.2em;">
+          {% if pub_link %}
+            <a href="{{ pub_link }}" style="font-weight: normal; font-size: 90%;">{{ pub.title }}</a>
+          {% else %}
+            <span style="font-weight: normal; font-size: 90%;">{{ pub.title }}</span>
+          {% endif %}
+
+          {% if pub.venue or pub.year %}
+            <span style="font-size: 90%;">
+              ({{ pub.venue }} {{ pub.year }})
+              <!-- &nbsp;( -->
+              <!-- {% if pub.venue %}{{ pub.venue }}{% endif %} -->
+              <!-- {% if pub.venue and pub.year %}, {% endif %} -->
+              <!-- {% if pub.year %}{{ pub.year }}{% endif %} -->
+              <!-- ) -->
+            </span>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</div>
