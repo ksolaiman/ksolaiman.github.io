@@ -23,6 +23,13 @@ author_profile: true
 <ol class="leftpad" reversed>
 <!-- <span class="author"> <button class="btn--small">Venue Type</button> <button class="btn--small">Research Area</button> </span> -->
 
+<h2 style="color:#7700DD"> 2025 -  </h2>
+{% for post in site.publications reversed %}
+  {% if post.website-separation-category == "c4" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
 <h2 style="color:#7700DD"> 2021 - 2024 </h2>
 <!-- <h3 style="color:#7700DD">JOURNAL, CONFERENCE, AND WORKSHOP PAPERS </h3>  -->
 <!--AND DEMONSTRATIONS (PEER-REVIEWED)-->
