@@ -12,34 +12,24 @@ Director: KMA Solaiman
 
 ## Designing AI That Endures
 
-<!-- At the H.A.R.M.O.N.I. Lab, we design AI systems that are **resilient, multimodal, and human-aligned** — capable of adapting in complex, unpredictable environments. From electricity grids to missing person search, from triage prediction to civic intelligence tools, our research bridges real-world applications with foundational AI challenges. -->
-<!-- all grounded in one mission: -->
-<!-- > **To build resilient, multimodal AI that adapts to uncertainty and aligns with human needs.** -->
-<!-- At our core is a mission:
-> **To build AI that endures — not just performs.** -->
-At the H.A.R.M.O.N.I. Lab, we design AI systems that think beyond narrow  objectives — systems that **adapt, align, and reason** in complex, real-world environments. From smart grids to policy documents, from missing persons to triage prediction, our research spans multiple modalities and domains, bridging real-world applications with foundational AI challenges.
-Our work is organized into **three core clusters**:
+At the H.A.R.M.O.N.I. Lab, we design AI systems that think beyond narrow objectives — systems that **adapt, align, and reason** in complex, real-world environments. From smart grids to policy documents, from missing persons to triage prediction, our research spans multiple modalities and domains, bridging real-world applications with foundational AI challenges.
 
-- **Robust AI & Novelty Adaptation**  
-  Systems that detect, reason about, and adapt to unseen or shifting inputs — ensuring safe operation in dynamic settings.
+Our work is organized into **three core clusters**, each with its ongoing 📌 [Projects](#projects) and real-world [Applications](#applications-we-explore):
 
-- **Multimodal Reasoning & Retrieval**  
-  Models that align and retrieve across diverse modalities like text, image, and graph, enabling open-world understanding.
+- **Robust AI & Adapting to Novelty**  
+  Detecting and reasoning about unseen or shifting inputs to ensure safe operation in dynamic settings.  
+  📌 [Structure-Aware Novelty in Open-World AI](#structure-aware-novelty) • [Novelty-Aware Smart Electric Grids](#smart-electric-grid)  
+  • [Unsupervised Clustering and Structure Discovery](#clustering-algos)
+
+- **Multimodal Information Retrieval and Reasoning**  
+  Aligning content across text, image, and graph modalities to enable open-world understanding.  
+  📌 [Multimodal Information Retrieval and Alignment](#multimodal-information-retrieval) • [Motherboard Defect Detection](#motherboard-defect-detection)  
+  • [Adaptive Prediction in Triage & Finance](#triage-and-stock-market)
 
 - **Human-Centered Decision Systems**  
-  AI that supports people — through interpretable recommendations, public-facing tools, and behavior-aware design, spanning from public safety to triage to preference matching.  
-🔗 [Adaptive Prediction in Triage & Finance](#triage-and-stock-market) · [Human-Centered Reasoning](#human-centered-reasoning)
+  Supporting real-world users with interpretable, context-aware AI for safety, health, and preferences.  
+  📌 [Adaptive Prediction in Triage & Finance](#triage-and-stock-market) • [Human-Centered Reasoning](#human-centered-reasoning)
 
----
-
-### Our Research Focus
-
-- [**Novelty & Out-of-Distribution Detection**](#novelty-adaptive-smart-grid-control)  
-- [**Multimodal Information Retrieval** (text, images, graphs, time series)](#multimodal-information-retrieval)
-- **Resilient Decision-Making in Cyber-Physical Systems**  
-- **Agent-Based Planning & Reinforcement Learning**  
-- **Human-AI Interaction and Intent Modeling**  
-- [**Clustering**](#clustering-algos)
 
 ---
 
