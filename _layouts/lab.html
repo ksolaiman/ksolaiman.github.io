@@ -1,46 +1,114 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  <style>
+    /* Remove default sidebar or top nav if injected by theme */
+    #sidebar, .sidebar, .site-header {
+      display: none !important;
+    }
 
-{% include base_path %}
+    /* Clean reset */
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
 
-<div id="main" role="main">
+    /* Top left link back to homepage */
+    .lab-nav-top {
+      background: #fff;
+      padding: 1em 2em;
+      border-bottom: 1px solid #ddd;
+    }
+    .lab-nav-top ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .lab-nav-top li {
+      display: inline-block;
+    }
+    .lab-nav-top a {
+      font-weight: bold;
+      font-size: 1em;
+      text-decoration: none;
+      color: #222;
+    }
 
-  <nav class="lab-nav">
+    /* Section nav under top */
+    .lab-nav-secondary {
+      background-color: #f9f9f9;
+      padding: 0.8em 2em;
+      border-bottom: 1px solid #ddd;
+    }
+    .lab-nav-secondary ul {
+      list-style: none;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 2em;
+      padding: 0;
+      margin: 0;
+    }
+    .lab-nav-secondary a {
+      font-weight: 600;
+      text-decoration: none;
+      color: #333;
+    }
+    .lab-nav-secondary a:hover {
+      text-decoration: underline;
+    }
+
+    /* Content wrapper */
+    .lab-content {
+      /* padding: 2em; */
+      /* max-width: 960px; */
+      /* margin: auto; */
+      max-width: 1300px;            /*Change this more to make it more wide*/
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+      line-height: 1.7;
+    }
+
+    /* lab name enumeration */
+    .lab-name-enum {
+        /* font-size: 2.25rem;
+        display: block;
+        margin-bottom: 1rem; */
+        font-size: 1.5rem;
+        font-weight: 500;
+        text-align: left;
+        line-height: 1.6;
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top bar: Homepage link -->
+  <nav class="lab-nav-top">
     <ul>
-      <li><a href="#lab-projects">📌 Projects</a></li>
-      <li><a href="#applications-we-explore">🧭 Applications</a></li>
-      <li><a href="#join-the-lab">Join the Lab</a></li>
-      <li><a href="/">← Solaiman's Homepage</a></li>
+      <li><a href="/">← Solaiman’s Homepage</a></li>
     </ul>
   </nav>
 
-  <article class="page">
-    <section class="page__content">
-      {{ content }}
-    </section>
-  </article>
+  <!-- Section nav: Internal anchors -->
+  <nav class="lab-nav-secondary">
+    <ul>
+      <li><a href="#projects">📌 Projects</a></li>
+      <li><a href="/publications/">📚 Publications</a></li>
+      <li><a href="#applications-we-explore">🧭 Applications</a></li>
+      <li><a href="#join-the-lab">🤝 Join the Lab</a></li>
+    </ul>
+  </nav>
 
-</div>
+  <!-- Main content -->
+  <main class="lab-content">
+    {{ content }}
+  </main>
 
-<style>
-.lab-nav {
-  background-color: #f5f5f5;
-  padding: 1em;
-  border-bottom: 1px solid #ddd;
-}
-.lab-nav ul {
-  display: flex;
-  gap: 1.5em;
-  list-style: none;
-  padding: 0;
-}
-.lab-nav a {
-  text-decoration: none;
-  font-weight: 600;
-  color: #333;
-}
-.lab-nav a:hover {
-  text-decoration: underline;
-}
-</style>
+</body>
+</html>

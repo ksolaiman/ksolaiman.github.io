@@ -1,16 +1,17 @@
 ---
-layout: single
+layout: lab               # will find in _layouts/lab.html, it was using single.html before
 title: "H.A.R.M.O.N.I. Lab"
 permalink: /harmoni-lab/
+nav: lab_nav              # find the navigation links in _data/navigation.yml
 redirect_from:
   - /lab/
   - /harmoni.lab/
 ---
 
-<!-- # H.A.R.M.O.N.I. Lab -->
+# H.A.R.M.O.N.I. Lab
 
 <!-- ### **Human-Aligned, Resilient, Multimodal, Open-ended, Novelty-Informed Intelligence**   -->
-<HUGE><strong>H</strong>uman-<strong>A</strong>ligned, <strong>R</strong>esilient, <strong>M</strong>ultimodal, <strong>O</strong>pen-ended, <strong>N</strong>ovelty-informed <strong>I</strong>ntelligence</HUGE>  
+<div class="lab-name-enum"><strong>H</strong>uman-<strong>A</strong>ligned, <strong>R</strong>esilient, <strong>M</strong>ultimodal, <strong>O</strong>pen-ended, <strong>N</strong>ovelty-informed <strong>I</strong>ntelligence</div>  
 *Director:* KMA Solaiman
 
 ---
@@ -64,6 +65,10 @@ Our work is organized into **three core clusters**, each linked to active 📌 [
     {% include archive-single.html post=project %}
   {% endif %}
 {% endfor %} -->
+
+
+<!-- Publicaitons in a iframe -->
+<!-- <iframe src="/publications/" width="100%" height="1600px" style="border:none;"></iframe> -->
 
 
 ## Join the Lab
