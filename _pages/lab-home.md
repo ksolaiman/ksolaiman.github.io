@@ -60,11 +60,16 @@ Our work is organized into **three core clusters**, each linked to active 📌 [
 
 ## Lab Projects
 
-{% assign sorted_projects = site.projects | sort: 'rank' %}
+{% if site.projects %}
+  {% assign sorted_projects = site.projects | sort: 'rank' %}
 
-{% for project in sorted_projects %}
-    {% include archive-project-card.html post=project %}
-{% endfor %}
+  {% for project in sorted_projects %}
+      {% include archive-project-card.html post=project %}
+  {% endfor %}
+{% else %}
+  <p>No projects found.</p>
+{% endif %}
+
 
 <!-- COMMENT: to filter (e.g., by category or tag) -->
 <!-- {% for project in site.projects %}
