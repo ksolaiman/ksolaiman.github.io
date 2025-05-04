@@ -2,14 +2,15 @@
 layout: single
 title: "H.A.R.M.O.N.I. Lab"
 permalink: /harmoni-lab/
+redirect_from:
+  - /lab/
+  - /harmoni.lab/
 ---
 
 <!-- # H.A.R.M.O.N.I. Lab -->
 
 <!-- ### **Human-Aligned, Resilient, Multimodal, Open-ended, Novelty-Informed Intelligence**   -->
-<HUGE><strong>H</strong>uman-<strong>A</strong>ligned, <strong>R</strong>esilient, <strong>M</strong>ultimodal, <strong>O</strong>pen-ended, <strong>N</strong>ovelty-informed <strong>I</strong>ntelligence</HUGE>
- 
-
+<HUGE><strong>H</strong>uman-<strong>A</strong>ligned, <strong>R</strong>esilient, <strong>M</strong>ultimodal, <strong>O</strong>pen-ended, <strong>N</strong>ovelty-informed <strong>I</strong>ntelligence</HUGE>  
 *Director:* KMA Solaiman
 
 ---
