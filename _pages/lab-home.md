@@ -7,7 +7,7 @@ permalink: /harmoni-lab/
 <!-- # H.A.R.M.O.N.I. Lab -->
 
 <!-- ### **Human-Aligned, Resilient, Multimodal, Open-ended, Novelty-Informed Intelligence**   -->
-<h2><strong>H</strong>uman-<strong>A</strong>ligned, <strong>R</strong>esilient, <strong>M</strong>ultimodal, <strong>O</strong>pen-ended, <strong>N</strong>ovelty-<strong>I</strong>nformed Intelligence</h2>
+<HUGE><strong>H</strong>uman-<strong>A</strong>ligned, <strong>R</strong>esilient, <strong>M</strong>ultimodal, <strong>O</strong>pen-ended, <strong>N</strong>ovelty-<strong>I</strong>nformed Intelligence</HUGE>
  
 
 *Director:* KMA Solaiman
