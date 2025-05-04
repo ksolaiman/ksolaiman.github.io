@@ -11,8 +11,15 @@ redirect_from:
 # H.A.R.M.O.N.I. Lab
 
 <!-- ### **Human-Aligned, Resilient, Multimodal, Open-ended, Novelty-Informed Intelligence**   -->
-<div class="lab-name-enum"><strong>H</strong>uman-<strong>A</strong>ligned, <strong>R</strong>esilient, <strong>M</strong>ultimodal, <strong>O</strong>pen-ended, <strong>N</strong>ovelty-informed <strong>I</strong>ntelligence</div>  
-*Director:* KMA Solaiman
+<div class="lab-name-enum">
+  <span class="h">H</span>uman-<span class="a">A</span>ligned, 
+  <span class="r">R</span>esilient, 
+  <span class="m">M</span>ultimodal, 
+  <span class="o">O</span>pen-ended, 
+  <span class="n">N</span>ovelty-informed 
+  <span class="i">I</span>ntelligence
+</div>  
+**Director:** KMA Solaiman
 
 ---
 
