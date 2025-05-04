@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<div id="main" role="main">
+
+  <nav class="lab-nav">
+    <ul>
+      <li><a href="#lab-projects">📌 Projects</a></li>
+      <li><a href="#applications-we-explore">🧭 Applications</a></li>
+      <li><a href="#join-the-lab">Join the Lab</a></li>
+      <li><a href="/">← Solaiman's Homepage</a></li>
+    </ul>
+  </nav>
+
+  <article class="page">
+    <section class="page__content">
+      {{ content }}
+    </section>
+  </article>
+
+</div>
+
+<style>
+.lab-nav {
+  background-color: #f5f5f5;
+  padding: 1em;
+  border-bottom: 1px solid #ddd;
+}
+.lab-nav ul {
+  display: flex;
+  gap: 1.5em;
+  list-style: none;
+  padding: 0;
+}
+.lab-nav a {
+  text-decoration: none;
+  font-weight: 600;
+  color: #333;
+}
+.lab-nav a:hover {
+  text-decoration: underline;
+}
+</style>
