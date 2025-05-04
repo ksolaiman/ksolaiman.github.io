@@ -4,9 +4,12 @@ title: "H.A.R.M.O.N.I. Lab"
 permalink: /lab/
 ---
 
-# H.A.R.M.O.N.I. Lab  
-## **Human-Aligned, Resilient, Multimodal, Open-ended, Novelty-Informed Intelligence**  
-Director: KMA Solaiman
+<!-- # H.A.R.M.O.N.I. Lab -->
+
+<!-- ### **Human-Aligned, Resilient, Multimodal, Open-ended, Novelty-Informed Intelligence**   -->
+<Huge><strong>H</strong>uman-<strong>A</strong>ligned, <strong>R</strong>esilient, <strong>M</strong>ultimodal, <strong>O</strong>pen-ended, <strong>N</strong>ovelty-Informed <strong>I</strong>ntelligence</Huge>  
+
+*Director:* KMA Solaiman
 
 ---
 
@@ -16,7 +19,7 @@ At the H.A.R.M.O.N.I. Lab, we design AI systems that think beyond narrow objecti
 
 Our work is organized into **three core clusters**, each with its ongoing 📌 [Projects](#projects) and real-world [Applications](#applications-we-explore):
 
-- **Robust AI & Adapting to Novelty**  
+- **Robust AI & Adaption to Novelty**  
   Detecting and reasoning about unseen or shifting inputs to ensure safe operation in dynamic settings.  
   📌 [Structure-Aware Novelty in Open-World AI](#structure-aware-novelty) • [Novelty-Aware Smart Electric Grids](#smart-electric-grid)  
   • [Unsupervised Clustering and Structure Discovery](#clustering-algos)
