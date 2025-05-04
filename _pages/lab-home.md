@@ -38,14 +38,13 @@ Our work is organized into **three core clusters**, each with its ongoing 📌 [
 
 ### Applications We Explore
 
-- Electricity theft & operational anomaly and novelty detection  
-- Legal and policy document understanding 
-- Intelligent triage in healthcare systems  
-- Missing person search  
-- Mental Health Improvement
-- Stock forecasting using multimodal signals  
-- Fault detection in hardware systems (e.g., motherboards)
-- check
+- Electricity theft, anomaly detection, and triage in smart energy systems  
+- Legal and policy document understanding  
+- Intelligent triage and decision support in healthcare  
+- Missing person retrieval and civic response systems  
+<!-- - Mental health content support (exploratory)   -->
+- Stock forecasting using news, sentiment, and historical signals  
+- Fault and defect detection in hardware (e.g., motherboards)
 
 ---
 
