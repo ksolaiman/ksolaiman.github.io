@@ -6,6 +6,9 @@ main:
   # - title: "Research"
   #   url: /research/
 
+  - title: H.A.R.M.O.N.I. Lab
+    url: /harmoni-lab/
+
   - title: "Publications"
     url: /publications/
 
@@ -26,15 +29,3 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
-
-
-
-lab_nav:
-  - title: "Projects"
-    url: /harmoni-lab/#projects
-  - title: "Applications"
-    url: /harmoni-lab/#applications-we-explore
-  - title: "Join the Lab"
-    url: /harmoni-lab/#join-the-lab
-  - title: "Solaiman's Homepage"
-    url: /
