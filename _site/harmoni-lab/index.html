@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>H.A.R.M.O.N.I. Lab</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <style>
+    /* Remove default sidebar or top nav if injected by theme */
+    #sidebar, .sidebar, .site-header {
+      display: none !important;
+    }
+
+    /* Clean reset */
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+
+    /* Top left link back to homepage */
+    .lab-nav-top {
+      background: #fff;
+      padding: 1em 2em;
+      border-bottom: 1px solid #ddd;
+    }
+    .lab-nav-top ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .lab-nav-top li {
+      display: inline-block;
+    }
+    .lab-nav-top a {
+      font-weight: bold;
+      font-size: 1em;
+      text-decoration: none;
+      color: #222;
+    }
+
+    /* Section nav under top */
+    .lab-nav-secondary {
+      background-color: #f9f9f9;
+      padding: 0.8em 2em;
+      border-bottom: 1px solid #ddd;
+    }
+    .lab-nav-secondary ul {
+      list-style: none;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 2em;
+      padding: 0;
+      margin: 0;
+    }
+    .lab-nav-secondary a {
+      font-weight: 600;
+      text-decoration: none;
+      color: #333;
+    }
+    .lab-nav-secondary a:hover {
+      text-decoration: underline;
+    }
+
+    /* Content wrapper */
+    .lab-content {
+      /* padding: 2em; */
+      /* max-width: 960px; */
+      /* margin: auto; */
+      max-width: 1300px;            /*Change this more to make it more wide*/
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+      line-height: 1.7;
+    }
+
+    /* lab name enumeration */
+    .lab-name-enum {
+        /* font-size: 2.25rem;
+        display: block;
+        margin-bottom: 1rem; */
+        font-size: 1.5rem;
+        font-weight: 400;
+        text-align: left;
+        line-height: 1.6;
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+    }
+    .lab-name-enum span {
+        font-weight: 900;
+    }
+
+
+    /* light theme */
+    /* .lab-name-enum .h { color: #E63946; }  /* red */
+    /* .lab-name-enum .a { color: #F4A261; }  /* orange */
+    /* .lab-name-enum .r { color: #2A9D8F; }  /* teal */
+    /* .lab-name-enum .m { color: #457B9D; }  /* blue */
+    /* .lab-name-enum .o { color: #A8DADC; }  /* light teal */
+    /* .lab-name-enum .n { color: #8D99AE; }  /* soft gray-blue */
+    /* .lab-name-enum .i { color: #6D597A; }  /* purple-ish */
+
+    /* dark theme */
+    .lab-name-enum .h { color: #B00020; }  /* deep red */
+    .lab-name-enum .a { color: #e30ecb; }  /* dark orange */
+    .lab-name-enum .r { color: #0da108; }  /* deep teal */
+    .lab-name-enum .m { color: #1751f1; }  /* navy blue */
+    .lab-name-enum .o { color: #e80808; }  /* dark cyan */
+    .lab-name-enum .n { color: #086c79; }  /* slate gray */
+    .lab-name-enum .i { color: #fc3b06; }  /* deep purple */
+  </style>
+</head>
+<body>
+
+  <!-- Top bar: Homepage link -->
+  <nav class="lab-nav-top">
+    <ul>
+      <li><a href="/">← Solaiman’s Homepage</a></li>
+    </ul>
+  </nav>
+
+  <!-- Section nav: Internal anchors -->
+  <nav class="lab-nav-secondary">
+    <ul>
+      <li><a href="#lab-projects">📌 Projects</a></li>
+      <li><a href="/publications/">📚 Publications</a></li>
+      <li><a href="#applications-we-explore">🧭 Applications</a></li>
+      <li><a href="#join-the-lab">🤝 Join the Lab</a></li>
+    </ul>
+  </nav>
+
+  <!-- Main content -->
+  <main class="lab-content">
+    <h1 id="harmoni-lab">H.A.R.M.O.N.I. Lab</h1>
+
+<!-- ### **Human-Aligned, Resilient, Multimodal, Open-ended, Novelty-Informed Intelligence**   -->
+<div class="lab-name-enum">
+  <span class="h">H</span>uman-<span class="a">A</span>ligned, 
+  <span class="r">R</span>esilient, 
+  <span class="m">M</span>ultimodal, 
+  <span class="o">O</span>pen-ended, 
+  <span class="n">N</span>ovelty-informed 
+  <span class="i">I</span>ntelligence
+</div>
+<p><strong>Director:</strong> KMA Solaiman</p>
+
+<hr />
+
+<h2 id="designing-ai-that-endures">Designing AI That Endures</h2>
+
+<p>At the H.A.R.M.O.N.I. Lab, we design AI systems that think beyond narrow objectives — systems that <strong>adapt, align, and reason</strong> in complex, real-world environments. From smart grids to policy documents, from missing persons to triage prediction, our research spans multiple modalities and domains, bridging real-world applications with foundational AI challenges.</p>
+
+<p>Our work is organized into <strong>three core clusters</strong>, each linked to active 📌 <a href="#lab-projects">projects</a> and real-world <a href="#applications-we-explore">applications</a>:</p>
+
+<ul>
+  <li>
+    <p><strong>Robust AI &amp; Adaption to Novelty</strong><br />
+Detecting and reasoning about unseen or shifting inputs to ensure safe operation in dynamic settings.<br />
+📌 <a href="#structure-aware-novelty">Structure-Aware Novelty in Open-World AI</a> • <a href="#smart-electric-grid">Novelty-Aware Smart Electric Grids</a><br />
+• <a href="#clustering-algos">Unsupervised Clustering and Structure Discovery</a></p>
+  </li>
+  <li>
+    <p><strong>Multimodal Information Retrieval and Reasoning</strong><br />
+Aligning content across text, image, and graph modalities to enable open-world understanding.<br />
+📌 <a href="#multimodal-information-retrieval">Multimodal Information Retrieval and Alignment</a> • <a href="#motherboard-defect-detection">Motherboard Defect Detection</a><br />
+• <a href="#triage-and-stock-market">Adaptive Prediction in Triage &amp; Finance</a></p>
+  </li>
+  <li>
+    <p><strong>Human-Centered Decision Systems</strong><br />
+Supporting real-world users with interpretable, context-aware AI for safety, health, and preferences.<br />
+📌 <a href="#triage-and-stock-market">Adaptive Prediction in Triage &amp; Finance</a> • <a href="#human-centered-reasoning">Human-Centered Reasoning</a></p>
+  </li>
+</ul>
+
+<hr />
+
+<h3 id="applications-we-explore">Applications We Explore</h3>
+
+<ul>
+  <li>Electricity theft, anomaly detection, and triage in smart energy systems</li>
+  <li>Legal and policy document understanding</li>
+  <li>Intelligent triage and decision support in healthcare</li>
+  <li>Missing person retrieval and civic response systems<br />
+<!-- - Mental health content support (exploratory)   --></li>
+  <li>Stock forecasting using news, sentiment, and historical signals</li>
+  <li>Fault and defect detection in hardware (e.g., motherboards)</li>
+</ul>
+
+<hr />
+
+<h2 id="lab-projects">Lab Projects</h2>
+
+<div class="card" id="novelty-adaptive-smart-grid-control" style="padding: 1em 1em 1em 1em; margin-top: 0; margin-bottom: 1em; border: 1px solid #ccc; border-radius: 6px;">
+  <h3 id="novelty-adaptive-smart-grid-control" style="margin: 0 0 0.4em 0;">
+    Novelty-Aware Smart Electric Grids
+  </h3>
+
+  <div style="margin-bottom: 0.4em;">
+    Designing a predictive divergence–based novelty detection and adaptive planning framework for smart electric grids. This system guides real-time control actions in uncertain operational scenarios and performs triage.
+  </div>
+
+  
+    <div style="margin-bottom: 0.4em;">
+      <strong>Current Researchers:</strong> KMA Solaiman (PI), Leann Alhashshi
+    </div>
+  
+
+  
+    <div style="margin-bottom: 0.3em;"><strong>Related Publications:</strong></div>
+
+    
+    
+
+    
+
+    <ul style="padding-left: 1.2em; margin: 0 0 0.2em 0;">
+      
+        
+        
+
+        <li style="margin-bottom: 0.2em;">
+          
+            <a href="/files/publications/Novelty-Aware-Smart-Grids-2025.pdf" style="font-weight: normal; font-size: 90%;">From Anomaly to Novelty: Active Detection and Adaptive Response in Smart Grids</a>
+          
+
+          
+            <span style="font-size: 90%;">
+              (UMBC CSEE Research Day 2025)
+              <!-- &nbsp;( -->
+              <!-- UMBC CSEE Research Day -->
+              <!-- ,  -->
+              <!-- 2025 -->
+              <!-- ) -->
+            </span>
+          
+        </li>
+      
+    </ul>
+  
+</div>
+
+<div class="card" id="multimodal-information-retrieval" style="padding: 1em 1em 1em 1em; margin-top: 0; margin-bottom: 1em; border: 1px solid #ccc; border-radius: 6px;">
+  <h3 id="multimodal-information-retrieval" style="margin: 0 0 0.4em 0;">
+    Multimodal Information Retrieval and Alignment
+  </h3>
+
+  <div style="margin-bottom: 0.4em;">
+    This project line explores how intelligent systems retrieve, align, and reason over multimodal information — including images, documents, and video — using graph-based, hierarchical, and layout-aware techniques. The focus spans structural matching, human-in-the-loop retrieval, and open-world adaptation across diverse content modalities.
+  </div>
+
+  
+    <div style="margin-bottom: 0.4em;">
+      <strong>Current Researchers:</strong> KMA Solaima (PI)
+    </div>
+  
+
+  
+    <div style="margin-bottom: 0.3em;"><strong>Related Publications:</strong></div>
+
+    
+    
+
+    
+
+    <ul style="padding-left: 1.2em; margin: 0 0 0.2em 0;">
+      
+        
+        
+
+        <li style="margin-bottom: 0.2em;">
+          
+            <a href="/files/publications/icde-femmir-2024.pdf" style="font-weight: normal; font-size: 90%;">Multimodal Information Retrieval for Open World with Edit Distance Weak Supervision</a>
+          
+
+          
+            <span style="font-size: 90%;">
+              (Submitted to ICDE 2024)
+              <!-- &nbsp;( -->
+              <!-- Submitted to ICDE -->
+              <!-- ,  -->
+              <!-- 2024 -->
+              <!-- ) -->
+            </span>
+          
+        </li>
+      
+        
+        
+
+        <li style="margin-bottom: 0.2em;">
+          
+            <a href="/files/publications/ieee-computer-2022.pdf" style="font-weight: normal; font-size: 90%;">Applying Machine Learning and Data Fusion to the "Missing Person" Problem</a>
+          
+
+          
+            <span style="font-size: 90%;">
+              (IEEE Computer 2022)
+              <!-- &nbsp;( -->
+              <!-- IEEE Computer -->
+              <!-- ,  -->
+              <!-- 2022 -->
+              <!-- ) -->
+            </span>
+          
+        </li>
+      
+        
+        
+
+        <li style="margin-bottom: 0.2em;">
+          
+            <a href="https://usc-isi-i2.github.io/AAAI2022SS/papers/SSS-22_paper_29.pdf" style="font-weight: normal; font-size: 90%;">Open-Learning Framework for Multi-modal Information Retrieval with Weakly Supervised Joint Embedding</a>
+          
+
+          
+            <span style="font-size: 90%;">
+              (AAAI Spring Symposium 2022)
+              <!-- &nbsp;( -->
+              <!-- AAAI Spring Symposium -->
+              <!-- ,  -->
+              <!-- 2022 -->
+              <!-- ) -->
+            </span>
+          
+        </li>
+      
+        
+        
+
+        <li style="margin-bottom: 0.2em;">
+          
+            <a href="https://hilda.io/2020/proceedings/HILDA2020_paper6.pdf" style="font-weight: normal; font-size: 90%;">Surveillance Video Querying With A Human-in-the-Loop</a>
+          
+
+          
+            <span style="font-size: 90%;">
+              (HILDA@SIGMOD 2020)
+              <!-- &nbsp;( -->
+              <!-- HILDA@SIGMOD -->
+              <!-- ,  -->
+              <!-- 2020 -->
+              <!-- ) -->
+            </span>
+          
+        </li>
+      
+        
+        
+
+        <li style="margin-bottom: 0.2em;">
+          
+            <a href="/files/publications/poly-vldb-skod-2019.pdf" style="font-weight: normal; font-size: 90%;">SKOD: A Framework for Situational Knowledge on Demand</a>
+          
+
+          
+            <span style="font-size: 90%;">
+              (POLY@VLDB 2019)
+              <!-- &nbsp;( -->
+              <!-- POLY@VLDB -->
+              <!-- ,  -->
+              <!-- 2019 -->
+              <!-- ) -->
+            </span>
+          
+        </li>
+      
+    </ul>
+  
+</div>
+
+<div class="card" id="structure-aware-novelty" style="padding: 1em 1em 1em 1em; margin-top: 0; margin-bottom: 1em; border: 1px solid #ccc; border-radius: 6px;">
+  <h3 id="structure-aware-novelty" style="margin: 0 0 0.4em 0;">
+    Structure-Aware Novelty in Open-World AI
+  </h3>
+
+  <div style="margin-bottom: 0.4em;">
+    This project develops foundational methods to model, quantify, and adapt to novelty in intelligent systems. We study how classifiers behave under distributional shift, how domain complexity affects generalization, and how structural representations can support uncertainty-aware learning. Techniques span embedding-based signal fusion, selective abstention, and severity scoring for downstream response.
+  </div>
+
+  
+    <div style="margin-bottom: 0.4em;">
+      <strong>Current Researchers:</strong> KMA Solaiman, Shafkat Islam
+    </div>
+  
+
+  
+    <div style="margin-bottom: 0.3em;"><strong>Related Publications:</strong></div>
+
+    
+    
+
+    
+
+    <ul style="padding-left: 1.2em; margin: 0 0 0.2em 0;">
+      
+        
+        
+
+        <li style="margin-bottom: 0.2em;">
+          
+            <a href="/files/publications/IEEE_TAI_2024.pdf" style="font-weight: normal; font-size: 90%;">Domain Complexity Estimation for Distributed AI Systems in Open-World Perception Domain</a>
+          
+
+          
+            <span style="font-size: 90%;">
+              (Submitted to IEEE TAI 2024)
+              <!-- &nbsp;( -->
+              <!-- Submitted to IEEE TAI -->
+              <!-- ,  -->
+              <!-- 2024 -->
+              <!-- ) -->
+            </span>
+          
+        </li>
+      
+        
+        
+
+        <li style="margin-bottom: 0.2em;">
+          
+            <a href="https://usc-isi-i2.github.io/AAAI2022SS/papers/SSS-22_paper_65.pdf" style="font-weight: normal; font-size: 90%;">Measurement of Novelty Difficulty in Monopoly</a>
+          
+
+          
+            <span style="font-size: 90%;">
+              (AAAI Spring Symposium 2022)
+              <!-- &nbsp;( -->
+              <!-- AAAI Spring Symposium -->
+              <!-- ,  -->
+              <!-- 2022 -->
+              <!-- ) -->
+            </span>
+          
+        </li>
+      
+        
+        
+
+        <li style="margin-bottom: 0.2em;">
+          
+            <a href="/files/publications/transAI-augmentation-2021.pdf" style="font-weight: normal; font-size: 90%;">Dataset Augmentation with Generated Novelties</a>
+          
+
+          
+            <span style="font-size: 90%;">
+              (TransAI 2021)
+              <!-- &nbsp;( -->
+              <!-- TransAI -->
+              <!-- ,  -->
+              <!-- 2021 -->
+              <!-- ) -->
+            </span>
+          
+        </li>
+      
+    </ul>
+  
+</div>
+
+<div class="card" style="padding: 1em 1em 1em 1em; margin-top: 0; margin-bottom: 1em; border: 1px solid #ccc; border-radius: 6px;">
+  <h3 style="margin: 0 0 0.4em 0;">
+    Motherboard Defect Detection
+  </h3>
+
+  <div style="margin-bottom: 0.4em;">
+    Student-led project exploring visual anomaly detection in motherboard hardware using deep learning. The system applies YOLOv7 to classify and localize defect regions from inspection images captured in lab conditions.
+  </div>
+
+  
+    <div style="margin-bottom: 0.4em;">
+      <strong>Current Researchers:</strong> KMA Solaiman, Brandon Hill
+    </div>
+  
+
+  
+    <div style="margin-bottom: 0.3em;"><strong>Related Publications:</strong></div>
+
+    
+    
+
+    
+
+    <ul style="padding-left: 1.2em; margin: 0 0 0.2em 0;">
+      
+        
+        
+
+        <li style="margin-bottom: 0.2em;">
+          
+            <a href="/files/publications/boardvision-2025.pdf" style="font-weight: normal; font-size: 90%;">BoardVision: Real-Time Motherboard Defect Detection using YOLOv7 and Faster R-CNN</a>
+          
+
+          
+            <span style="font-size: 90%;">
+              (UMBC CSEE Research Day 2025)
+              <!-- &nbsp;( -->
+              <!-- UMBC CSEE Research Day -->
+              <!-- ,  -->
+              <!-- 2025 -->
+              <!-- ) -->
+            </span>
+          
+        </li>
+      
+    </ul>
+  
+</div>
+
+<div class="card" id="clustering-algos" style="padding: 1em 1em 1em 1em; margin-top: 0; margin-bottom: 1em; border: 1px solid #ccc; border-radius: 6px;">
+  <h3 id="clustering-algos" style="margin: 0 0 0.4em 0;">
+    Unsupervised Clustering and Structure Discovery
+  </h3>
+
+  <div style="margin-bottom: 0.4em;">
+    Exploring clustering algorithms that reveal latent structure in unlabeled, high-dimensional data. This work emphasizes robustness to irregular clusters and scale variance.
+  </div>
+
+  
+    <div style="margin-bottom: 0.4em;">
+      <strong>Current Researchers:</strong> KMA Solaiman, Randy Wiredu-Aidoo
+    </div>
+  
+
+  
+    <div style="margin-bottom: 0.3em;"><strong>Related Publications:</strong></div>
+
+    
+    
+
+    
+
+    <ul style="padding-left: 1.2em; margin: 0 0 0.2em 0;">
+      
+        
+        
+
+        <li style="margin-bottom: 0.2em;">
+          
+            <a href="/files/publications/thesis-poster-2014.pdf" style="font-weight: normal; font-size: 90%;">Minimal Parameter Clustering of Complex Shape Dataset with High Dimensional Dataset Compatibility (MPCACS)</a>
+          
+
+          
+            <span style="font-size: 90%;">
+              (BUET Thesis Poster Presentation 2014)
+              <!-- &nbsp;( -->
+              <!-- BUET Thesis Poster Presentation -->
+              <!-- ,  -->
+              <!-- 2014 -->
+              <!-- ) -->
+            </span>
+          
+        </li>
+      
+    </ul>
+  
+</div>
+
+<div class="card" id="human-centered-reasoning" style="padding: 1em 1em 1em 1em; margin-top: 0; margin-bottom: 1em; border: 1px solid #ccc; border-radius: 6px;">
+  <h3 id="human-centered-reasoning" style="margin: 0 0 0.4em 0;">
+    Human-Centered Reasoning &amp; Recommendation Systems
+  </h3>
+
+  <div style="margin-bottom: 0.4em;">
+    These projects center around human-aligned AI systems designed to reason with real-world constraints and preferences. From public safety analytics to personalized consumptions (i.e. plants, content) matching, the focus is on making decision-support tools accessible, interpretable, and adaptable to user context.
+  </div>
+
+  
+    <div style="margin-bottom: 0.4em;">
+      <strong>Current Researchers:</strong> KMA Solaiman, Ashley Kalinock, Ananya Patri
+    </div>
+  
+
+  
+    <div style="margin-bottom: 0.3em;"><strong>Related Publications:</strong></div>
+
+    
+    
+
+    
+
+    <ul style="padding-left: 1.2em; margin: 0 0 0.2em 0;">
+      
+        
+        
+
+        <li style="margin-bottom: 0.2em;">
+          
+            <a href="/files/publications/iciev-avra-2013.pdf" style="font-weight: normal; font-size: 90%;">AVRA Bangladesh collection, analysis &amp; visualization of road accident data in Bangladesh</a>
+          
+
+          
+            <span style="font-size: 90%;">
+              (ICIEV 2013)
+              <!-- &nbsp;( -->
+              <!-- ICIEV -->
+              <!-- ,  -->
+              <!-- 2013 -->
+              <!-- ) -->
+            </span>
+          
+        </li>
+      
+    </ul>
+  
+</div>
+
+<div class="card" id="triage-and-stock-market" style="padding: 1em 1em 1em 1em; margin-top: 0; margin-bottom: 1em; border: 1px solid #ccc; border-radius: 6px;">
+  <h3 id="triage-and-stock-market" style="margin: 0 0 0.4em 0;">
+    Adaptive Prediction in Triage &amp; Financial Markets
+  </h3>
+
+  <div style="margin-bottom: 0.4em;">
+    This project explores how multimodal learning can improve decision-making in high-stakes domains like medical triage and stock market prediction. We model temporal and semantic signals — including vitals, news, and sentiment — to forecast outcomes under uncertainty. The research emphasizes cross-domain learning and robust performance on evolving, real-world data streams.
+  </div>
+
+  
+    <div style="margin-bottom: 0.4em;">
+      <strong>Current Researchers:</strong> KMA Solaiman (PI), Adam Sayeed, Joshua Sebastian
+    </div>
+  
+
+  
+</div>
+
+<!-- COMMENT: to filter (e.g., by category or tag) -->
+<!-- 
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ -->
+
+<!-- Publicaitons in a iframe -->
+<!-- <iframe src="/publications/" width="100%" height="1600px" style="border:none;"></iframe> -->
+
+<h2 id="join-the-lab">Join the Lab</h2>
+
+<p>We welcome students who are curious, motivated, and eager to build practical AI systems that tackle real-world complexity. Your time is valuable, and we strive to ensure that your contributions are recognized — through course credit, funding, or formal research roles.</p>
+
+<h3 id="who-were-looking-for">Who We’re Looking For</h3>
+<ul>
+  <li><strong>UMBC undergraduates</strong>, especially those interested in AI/ML, data systems, HCI, or applied computing.</li>
+  <li><strong>Graduate students</strong> pursuing thesis or project work.</li>
+  <li><strong>Independent contributors</strong> working on domain-driven or experimental projects.</li>
+  <li>Students enrolled in or planning to take <strong>CMSC 471, 478, or 678</strong> with Prof. Solaiman.</li>
+</ul>
+
+<hr />
+<h3 id="for-umbc-masters-and-undergraduate-students">For UMBC Master’s and Undergraduate Students</h3>
+
+<blockquote>
+  <p>While I currently do <strong>not have dedicated funding</strong> for master’s or undergraduate students, I am open to supervising <strong>independent projects</strong> and collaborative research for credit.</p>
+</blockquote>
+
+<p>I strongly prefer to <strong>get to know students through coursework</strong> before working together. If you’re interested in joining the lab, please consider enrolling in one of my classes.</p>
+
+<!-- ### Ways to Join -->
+
+<p>While I would like to work with many exceptional students, I may not always be able to accommodate everyone. However there are several useful resources and programs at UMBC:</p>
+
+<ul>
+  <li><strong>Research for Credit</strong>
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">CMSC 499/699</code>: Independent Study</li>
+      <li><code class="language-plaintext highlighter-rouge">CMSC 698</code>: Project in Computer Science</li>
+      <li><code class="language-plaintext highlighter-rouge">CMSC 799</code>: Master’s Thesis</li>
+    </ul>
+  </li>
+  <li><strong>Funded Undergraduate Opportunities</strong> <em>(UMBC-specific)</em>
+    <ul>
+      <li><a href="https://ur.umbc.edu/ura/">URA – Undergraduate Research Awards</a></li>
+      <li><a href="https://ur.umbc.edu/urcad/">URCAD – Research Day Presentations</a></li>
+      <li><a href="https://ur.umbc.edu/summer-research-opportunities/">SURF – Summer Undergraduate Research</a></li>
+      <li><a href="https://goldwater.scholarsapply.org/">Goldwater Scholarship</a></li>
+    </ul>
+  </li>
+  <li><strong>Funded Graduate Fellowships</strong> <em>(external)</em>
+    <ul>
+      <li><a href="https://www.nsf.gov/careers/graduate/csgrad4us.jsp">NSF CSGrad4US Fellowship</a></li>
+      <li><a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship Program (GRFP)</a></li>
+    </ul>
+  </li>
+  <li><strong>Cross-Faculty Collaboration</strong><br />
+If you’re funded through another PI, we welcome joint mentorship and interdisciplinary project involvement.</li>
+</ul>
+
+<p><small><em>Courtesy: List based off of <a href="https://www.tejasgokhale.com/faq.html">Dr. Tejas Gokhale’s</a> FAQ.</em></small></p>
+
+<hr />
+
+<h3 id="collaborations">Collaborations</h3>
+<p>We collaborate across campus and beyond:</p>
+<ul>
+  <li><strong>UMBC Center for AI</strong></li>
+  <li><strong>University of Maryland Medical Center (UMMC)</strong></li>
+  <li><strong>UMB School of Pharmacy (SOP)</strong></li>
+  <li><strong>Purdue University</strong></li>
+  <li>Past partnerships: <strong>MIT, NGC, DARPA, USC-ISI</strong></li>
+</ul>
+
+<hr />
+
+<h3 id="contact">Contact</h3>
+
+<p><strong>KMA Solaiman</strong><br />
+Assistant Teaching Professor, CSEE, UMBC<br />
+Director, H.A.R.M.O.N.I. Lab<br />
+📧 <a href="mailto:ksolaima@umbc.edu">ksolaima@umbc.edu</a><br />
+🌐 <a href="https://ksolaiman.github.io/harmoni-lab/">Lab Website</a></p>
+
+<blockquote>
+  <p>If you’re driven by curiosity and care about the real-world impact of AI, we’d love to hear from you.</p>
+</blockquote>
+
+  </main>
+
+</body>
+</html>

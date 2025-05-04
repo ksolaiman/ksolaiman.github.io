@@ -1,0 +1,55 @@
+## Research Focus
+
+- **Novelty Detection & Open-World Adaptation**  
+  Modeling and responding to unknown or shifting data in real-time systems.  
+  🔗 [Structure-Aware Novelty in Open-World AI] · [Novelty-Aware Smart Electric Grids]
+
+- **Multimodal Information Retrieval & Alignment**  
+  Connecting and retrieving content across text, images, video, and structured documents using graph-based models.  
+  🔗 [Multimodal Information Retrieval and Alignment] · [Motherboard Defect Detection]
+
+- **Human-Centered Decision Support & Recommendation**  
+  Designing interpretable AI systems for triage, personalization, and civic applications.  
+  🔗 [Adaptive Prediction in Triage & Financial Markets] · [Human-Centered Reasoning & Recommendation Systems]
+
+- **Resilient AI for Cyber-Physical Systems**  
+  Applying adaptive learning and novelty awareness in domains like smart grids and hardware inspection.  
+  🔗 [Novelty-Aware Smart Electric Grids] · [Motherboard Defect Detection]
+
+- **Structure-Aware Clustering & Representation Learning**  
+  Learning robust embeddings and groupings in high-dimensional, unlabeled data.  
+  🔗 [Unsupervised Clustering and Structure Discovery]
+
+- **Graph-Based Reasoning & Planning**  
+  Using symbolic structures, agent-based models, and planning frameworks for decision making under uncertainty.  
+  🔗 [Structure-Aware Novelty in Open-World AI]
+   - **Human-AI Interaction and Intent Modeling**  
+
+  <!-- old
+  ### Our Research Focus
+  
+  - [**Novelty & Out-of-Distribution Detection**](#novelty-adaptive-smart-grid-control)  
+  - [**Multimodal Information Retrieval** (text, images, graphs, time series)](#multimodal-information-retrieval)
+  - **Resilient Decision-Making in Cyber-Physical Systems**  
+  - **Agent-Based Planning & Reinforcement Learning**  
+  - **Human-AI Interaction and Intent Modeling**  
+  - [**Clustering**](#clustering-algos)
+  
+  --- -->
+
+
+
+
+  ## Our Research Clusters
+
+### 🧠 Robust AI & Novelty
+Building systems that adapt under uncertainty, detect novelty, and generalize to open-world settings.  
+🔗 [Structure-Aware Novelty in Open-World AI] · [Novelty-Aware Smart Electric Grids] · [Unsupervised Clustering and Structure Discovery]
+
+### 📡 Multimodal Information Retrieval & Alignment
+Retrieving, aligning, and reasoning across data like images, video, and documents using graph-structured techniques.  
+🔗 [Multimodal Information Retrieval and Alignment] · [Motherboard Defect Detection]
+
+### 🧭 Human-Centered Decision Systems
+Designing interpretable, preference-aware systems for users, from public safety to triage to personal matching.  
+🔗 [Adaptive Prediction in Triage & Financial Markets] · [Human-Centered Reasoning & Recommendation Systems]
