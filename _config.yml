@@ -86,6 +86,10 @@ analytics:
 author:
   name             : "KMA Solaiman"
   avatar           : "solaiman-profile-pic.jpeg" # "profile.png"    # it's image uploaded to /images/
+  roles            : 
+  - Assistant Teaching Professor
+  - Director, H.A.R.M.O.N.I. Lab
+  - Affiliate, UMBC Center for AI
   bio              : PhD in Computer Science, Purdue University #"Computer Scientist"
   location         : Catonsville, MD
   employer         : UMBC
