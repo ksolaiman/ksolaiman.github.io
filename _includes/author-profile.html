@@ -15,8 +15,45 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    <!-- <h3 class="author__name">{{ author.name }}</h3> -->
+    
+    <!-- Styling sass is in _sidebar.scss (.author_roles)-->
+    <!-- {% if author.roles %}                       
+      <div class="author__roles">
+        {% for role in author.roles %}
+          <div class="author__role">{{ role }}</div>
+        {% endfor %}
+      </div>
+    {% endif %} -->
+    <!-- Direct action, dierect html rendering -->
+    <div class="author__roles">
+      <div class="author__role">
+        <b>Assistant Teaching Professor </b> <br>
+        <div class="affiliation-links">
+          <a href="https://csee.umbc.edu" target="_blank">Computer Science & Electrical Engineering</a><br>
+          <a href="https://umbc.edu" target="_blank">University of Maryland, Baltimore County</a>
+        </div>
+      </div>
+      <br>
+      <div class="author__role">
+        <b>Director </b> <br>
+        <div class="affiliation-links">
+          <a href="/harmoni-lab/" target="_blank">H.A.R.M.O.N.I. Lab</a>
+          <!-- <br>
+          <a href="https://umbc.edu" target="_blank">University of Maryland, Baltimore County</a> -->
+        </div>
+      </div>
+      <br>
+      <div class="author__role">
+        <b>Affiliate Faculty </b> <br>
+        <div class="affiliation-links">
+          <a href="https://ai.umbc.edu/" target="_blank">UMBC Center for AI</a>
+          <!-- <br>
+          <a href="https://umbc.edu" target="_blank">University of Maryland, Baltimore County</a> -->
+        </div>
+      </div>
+    </div>
+    <!-- {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %} -->
   </div>
 
   <div class="author__urls-wrapper">
