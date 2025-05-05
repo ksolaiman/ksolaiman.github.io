@@ -38,3 +38,58 @@
 .container:hover .overlay {
   opacity: 0.25;
 }
+
+
+
+/* more css by Solaiman, for about me page */
+.layout--about .initial-content {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.sidebar-wrapper {
+  width: 350px; /* You can change this */
+  margin-right: 2rem;
+  margin-left: 2rem;
+}
+
+.about-main {
+  flex-grow: 1;
+  min-width: 0;
+}
+
+.about-main .page__title {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+}
+
+
+// Solaiman
+span.author {
+  display:inline-block;
+  text-align:right;
+  max-width:100%;
+  font-style: italic;
+  white-space: nowrap;
+}
+
+ol.leftpad{
+  // word-break: break-all; # wraps last word in sentence
+  margin: 0;
+  padding-left: 1em;
+}
+
+// more for the news part
+.news__main {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-top: 2rem;
+  padding-left: 1rem;
+  list-style: none;
+}
+
+.news__main li {
+  margin-bottom: 0.5rem;
+}

@@ -49,7 +49,7 @@
 }
 
 .page__content {
-
+  max-width:100%;
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
@@ -398,21 +398,4 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
-}
-
-
-// Solaiman
-span.author {
-  display:inline-block;
-  text-align:right;
-  max-width:100%;
-  font-style: italic;
-  white-space: nowrap;
-  float: right;
-}
-
-ol.leftpad{
-  // word-break: break-all; # wraps last word in sentence
-  margin: 0;
-  padding-left: 1em;
 }

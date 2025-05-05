@@ -12,6 +12,7 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  width: 400px; // increase this (e.g., to 300px)
 
   @include breakpoint($large) {
     @include span(2 of 12);
@@ -234,4 +235,21 @@
       text-decoration: underline;
     }
   }
+}
+
+.author__roles {
+  margin-top: 0.3rem;
+  margin-bottom: 1rem;
+}
+
+.author__role {
+  font-size: 0.9rem;
+  line-height: 1.3;
+  color: #444;
+  width: 250px; // increase this (e.g., to 300px)
+}
+
+.affiliation-links {
+  font-size: 0.8rem;
+  line-height: 1.2;
 }
