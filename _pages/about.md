@@ -32,13 +32,19 @@ My work has appeared in top venues like VLDB, SIGMOD, AAAI, and IEEE Journals, a
 <small><em>Fun fact:</em> At UMBC, people know me as **Khaled**. I also go by **Salvi** — a name derived from *salve*, meaning healing — which reflects the mission behind our lab.</small>
 
 ---
+<div class="news-title">NEWS</div>
+<div class="news-slider">
+  <ul class="news-list">
+    {% for item in site.data.news %}
+      <li class="{% if forloop.first %}highlight{% endif %}">
+        <strong>{{ item.date }}</strong> — {{ item.text }}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
 
-<h3>News</h3>
-<ul class="news__main">
-  {% for item in site.data.news %}
-    <li><strong>{{ item.date }}:</strong> {{ item.text }}</li>
-  {% endfor %}
-</ul>
+
+---
 
 
 <!-- ## Acedemic Service
