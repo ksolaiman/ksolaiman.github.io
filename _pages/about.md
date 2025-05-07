@@ -24,7 +24,7 @@ redirect_from:
 At UMBC, I design and teach core AI and Machine Learning courses while leading research at the intersection of multimodal learning, open-world reasoning, and data-centric AI for real-world decision-making. 
 My research focuses on enabling AI systems to reason under **uncertainty**, adapt to dynamic environments, and serve critical real-world missions.
 
-At UMBC, I lead the [**H.A.R.M.O.N.I. Lab**](https://ksolaiman.github.io/harmoni-lab/) — 
+I also lead the [**H.A.R.M.O.N.I. Lab**](https://ksolaiman.github.io/harmoni-lab/) — 
 **H**uman-**A**ligned, **R**esilient, **M**ultimodal, **O**pen-ended, **N**ovelty-Informed **I**ntelligence. We design AI systems that adapt, align, and **endure** — systems that operate safely in uncertain environments like smart energy, public health, and civic tech. 
 <!-- Our research blends **machine learning**, **multimodal retrieval**, and **open-world learning**, always with an eye toward **real-world impact**. -->
 
@@ -40,7 +40,7 @@ My work has appeared in top venues like VLDB, SIGMOD, AAAI, and IEEE Journals, a
     {% assign sorted_news = site.data.news | sort: "date" | reverse %}
     {% for item in sorted_news %}
       <li class="{% if forloop.first %}highlight{% endif %}">
-        <strong>{{ item.date }}</strong>&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;&nbsp;{{ item.text }}
+        <strong>{{ item.date | date: "%B %Y" }}</strong> — {{ item.text }}
       </li>
     {% endfor %}
   </ul>
