@@ -35,9 +35,10 @@ My work has appeared in top venues like VLDB, SIGMOD, AAAI, and IEEE Journals, a
 <div class="news-title">NEWS</div>
 <div class="news-slider">
   <ul class="news-list">
-    {% for item in site.data.news %}
+    {% assign sorted_news = site.data.news | sort: "date" | reverse %}
+    {% for item in sorted_news %}
       <li class="{% if forloop.first %}highlight{% endif %}">
-        <strong>{{ item.date }}</strong> — {{ item.text }}
+        <strong>{{ item.date }}</strong>&nbsp;&nbsp;&nbsp;—&nbsp;&nbsp;&nbsp;{{ item.text }}
       </li>
     {% endfor %}
   </ul>
