@@ -1,4 +1,11 @@
 # For reliable chronological sorting, consider converting date into YYYY-MM format internally if needed.
+
+- date: 2025-05-09
+  text: Completed the requirements for <a href="https://calt.umbc.edu/learning-communities/alit-certificate-program/">Active Learning, Inquiry Teaching (ALIT) certificate program </a>
+  
+- date: 2025-05-08
+  text: Adam Sayeed submitted his application for <a href="https://ur.umbc.edu/ura/"> Undergraduate Research Award </a>
+
 - date: 2025-05-08
   text: Invited Guest Lecture from Patty Delafuente on "Prompt Engineering"
 
