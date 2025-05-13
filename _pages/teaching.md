@@ -6,17 +6,23 @@ title: "Teaching"
 ### University of Maryland Baltimore County (Aug 2023 -- Present)
 - **CMSC 471: Introduction to Artificial Intelligence**
     - Spring'25: Course details are in Blackboard
-    <h2 class="archive__item-title" itemprop="headline">Guest Lecture: Bias in AI (Dr. Lara Martin)</h2>
-  <a href="https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5031066-182d-4f13-b71b-b2d6017735f0&start=0" target="_blank" style="display: inline-block; text-decoration: none;">
-    <img src="/files/thumbnails/Lara-guest-sp25-471.png" alt="Guest Lecture Preview" style="width:360px; border: 1px solid #ccc; border-radius: 6px;">
-    <!-- <div style="text-align:center; margin-top: 0.5rem; font-size: 0.95rem;">
-        <strong>Bias in AI (Dr. Lara Martin)</strong>
-    </div> -->
-  </a>
-  <h2 class="archive__item-title" itemprop="headline">Guest Lecture: Prompt Engineering (Petty Delafuente)</h2>
-  <a href="https://umbc.webex.com/umbc/ldr.php?RCID=7dd1a221db991ff182cdc5db1927a75f" style="display: inline-block; text-decoration: none;">
-    <img src="/files/thumbnails/Patty-guest-sp25-478.png" alt="Guest Lecture Preview" style="width:360px; border: 1px solid #ccc; border-radius: 6px;">
-  </a>
+    <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem;">
+    <img src="/images/sp25-ai-class-photo-2.jpg" alt="Class photo" style="width:360px; border: 1px solid #ccc; border-radius: 6px;">
+    <img src="/images/sp25-ai-class-photo-3.jpeg" alt="Class photo" style="width:360px; border: 1px solid #ccc; border-radius: 6px;">
+    </div>
+    <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem;">
+        <h2 class="archive__item-title" itemprop="headline">Guest Lecture: Bias in AI (Dr. Lara Martin)</h2>
+        <a href="https://umbc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5031066-182d-4f13-b71b-b2d6017735f0&start=0" target="_blank" style="display: inline-block; text-decoration: none;">
+            <img src="/files/thumbnails/Lara-guest-sp25-471.png" alt="Guest Lecture Preview" style="width:360px; border: 1px solid #ccc; border-radius: 6px;">
+            <!-- <div style="text-align:center; margin-top: 0.5rem; font-size: 0.95rem;">
+                <strong>Bias in AI (Dr. Lara Martin)</strong>
+            </div> -->
+        </a>
+        <h2 class="archive__item-title" itemprop="headline">Guest Lecture: Prompt Engineering (Petty Delafuente)</h2>
+        <a href="https://umbc.webex.com/umbc/ldr.php?RCID=7dd1a221db991ff182cdc5db1927a75f" style="display: inline-block; text-decoration: none;">
+            <img src="/files/thumbnails/Patty-guest-sp25-478.png" alt="Guest Lecture Preview" style="width:360px; border: 1px solid #ccc; border-radius: 6px;">
+        </a>
+    </div>
     - Fall'24: Course moved to Blackboard
     - [Spring'24 Course Webpage](https://umbc-cmsc471.github.io/spring2024/) // [Course Feedback 01](/files/direct-feedback-sp24/Instructor%20Report%20-%20CMSC%20471%2001%20Artificial%20Intelligence%20%20KMA%20Solaiman_8c693f70-77e7-4b17-bd81-3d37cae940b6en-US.pdf) // [Course Feedback 02](/files/direct-feedback-sp24/Instructor%20Report%20-%20CMSC%20471%2002%20Artificial%20Intelligence%20%20KMA%20Solaiman_f2151694-7aa4-4688-8df6-a2426f1203a3en-US.pdf) ![GritView Rating](/images/review/471-sp24.png)
     - [Fall'23 Course Webpage](https://umbc-cmsc471.github.io/fall2023-public/)![GritView Rating](/images/review/471-fa23.png)
