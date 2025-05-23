@@ -12,7 +12,7 @@ website-separation-category: 'c3'
 # pdf: '/files/publications/thesis-poster-2014.pdf'
 poster: '/files/publications/thesis-poster-2014.pdf'
 link: 'http://dx.doi.org/10.13140/RG.2.2.27359.94881' 
-
+DOI: '10.13140/RG.2.2.27359.94881'
 
 # talk/ video:
 # code: 'https://doi.org/10.7910/DVN/BEKPWV'

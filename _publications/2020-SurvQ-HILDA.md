@@ -6,7 +6,7 @@ permalink: /publications/journal-and-conference-and-workshop/survq
 year: 2020
 venue: 'HILDA@SIGMOD'
 venue-type: 'Workshop'
-research-category: 'Feature Extraction'
+research-category: 'Multimodal Information Retrieval'
 website-separation-category: 'c2' #c1
 pdf: 'https://hilda.io/2020/proceedings/HILDA2020_paper6.pdf' #'https://www.cs.purdue.edu/homes/bb/2020-fall-cs590bb/docs/vp/surveillance_video_querying_paper.pdf'
 # link: 'https://doi.org/10.1093/isq/sqaa009'

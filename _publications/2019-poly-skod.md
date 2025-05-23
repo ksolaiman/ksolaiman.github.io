@@ -6,7 +6,7 @@ permalink: /publications/journal-and-conference-and-workshop/skod-poly
 year: 2019
 venue: 'POLY@VLDB'
 venue-type: 'Workshop'
-research-category: 'Information Retrieval'
+research-category: 'Multimodal Information Retrieval'
 website-separation-category: 'c2' #'c1'
 pdf: '/files/publications/poly-vldb-skod-2019.pdf'
 link: 'https://link.springer.com/chapter/10.1007/978-3-030-33752-0_11'

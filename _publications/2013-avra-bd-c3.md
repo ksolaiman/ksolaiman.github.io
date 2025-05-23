@@ -6,7 +6,7 @@ permalink: /publications/ug-misc/avra-bd
 year: 2013
 venue: 'ICIEV'
 venue-type: 'Conference'
-research-category: 'Data Analysis'
+research-category: 'Human-Centered Decision Systems'
 website-separation-category: 'c3'
 pdf: '/files/publications/iciev-avra-2013.pdf'
 link: 'https://ieeexplore.ieee.org/abstract/document/6572632'

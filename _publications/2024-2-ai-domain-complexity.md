@@ -1,7 +1,7 @@
 ---
 title: "Domain Complexity Estimation for Distributed AI Systems in Open-World Perception Domain"
 collection: publications 
-permalink: /publications/journal-and-conference-and-workshop/ai-domain-complexity
+permalink: /publications/preprints/ai-domain-complexity
 # date: 2020-06-08
 year: 2024
 venue: 'Submitted to IEEE TAI'

@@ -14,7 +14,7 @@ poster: '/files/publications/Novelty-Aware-Smart-Grids-2025.pdf'
 
 ## code: 'https://doi.org/10.7910/DVN/BEKPWV'
 
-authors: 'Leann Alhashishi, KMA Solaiman (PI)'
+authors: 'Leann Alhashishi, KMA Solaiman'
 citation: 'Leann Alhashishi and KMA Solaiman, "From Anomaly to Novelty: Active Detection and Adaptive Response in Smart Grids,” in UMBC CSEE Research Day 2025.'
 # poster
 # pdf

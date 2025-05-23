@@ -1,7 +1,7 @@
 ---
 title: "Multimodal Information Retrieval for Open World with Edit Distance Weak Supervision"
 collection: publications 
-permalink: /publications/journal-and-conference-and-workshop/femmir24
+permalink: /publications/preprints/femmir24
 # date: 2020-06-08
 year: 2024 
 venue: 'Submitted to ICDE'

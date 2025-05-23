@@ -6,7 +6,7 @@ permalink: /publications/journal-and-conference-and-workshop/missing-person
 year: 2022
 venue: 'IEEE Computer'
 venue-type: 'Journal'
-research-category: 'Information Retrieval'
+research-category: 'Multimodal Information Retrieval'
 website-separation-category: 'c1'
 
 
