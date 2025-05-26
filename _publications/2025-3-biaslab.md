@@ -9,7 +9,8 @@ venue-type: 'Preprint'
 research-category: 'Human-aligned Systems'
 website-separation-category: 'c4'
 
-link: 'https://arxiv.org/abs/2505.16081'
+link: 'https://doi.org/10.48550/arXiv.2505.16081'
+pdf: 'https://arxiv.org/pdf/2505.16081'
 
 ## code: 'https://doi.org/10.7910/DVN/BEKPWV'
 
