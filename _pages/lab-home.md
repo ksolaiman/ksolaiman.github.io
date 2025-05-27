@@ -42,7 +42,11 @@ Our work is organized into **three core clusters**, each linked to active 📌 [
 - **Human-Centered Decision Systems**  
   Supporting real-world users with interpretable, context-aware AI for safety, health, and preferences.  
   📌 [Adaptive Prediction in Triage & Finance](#triage-and-stock-market) • [Human-Centered Reasoning](#human-centered-reasoning)
-
+  <!-- supporting real-time decisions or interfacing with end-users  -->
+  - **Human-Centered NLP and Subjective Bias**  
+    We investigate framing bias, stance perception, and subjective disagreement in human and LLM annotations. This includes media bias, political framing, and annotation typologies grounded in social and linguistic theory.  
+    📌 [BiasLab: Explainable Political Bias Detection](#political-bias-1)
+     <!-- • [Human Attribute Recognition from Unstructured Text]() -->
 
 ---
 
@@ -55,6 +59,7 @@ Our work is organized into **three core clusters**, each linked to active 📌 [
 <!-- - Mental health content support (exploratory)   -->
 - Stock forecasting using news, sentiment, and historical signals  
 - Fault and defect detection in hardware (e.g., motherboards)
+- Lingusitic Bias Detection in Political News Articles
 
 ---
 
