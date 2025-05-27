@@ -56,4 +56,11 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<h2 style="color:#7700DD">DISSERTATIONS</h2> 
+{% for post in site.publications reversed %}
+  {% if post.website-separation-category == "c0" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
 </ol>
