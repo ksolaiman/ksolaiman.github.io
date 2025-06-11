@@ -1,5 +1,8 @@
 # For reliable chronological sorting, consider converting date into YYYY-MM format internally if needed.
 
+- date: 2025-06-10
+  text: <a href="https://arxiv.org/abs/2505.16081">BiasLab </a> acceped at the MoFA Workshop in ICML 2025
+  
 - date: 2025-05-09
   text: Completed the requirements for <a href="https://calt.umbc.edu/learning-communities/alit-certificate-program/">Active Learning, Inquiry Teaching (ALIT) certificate program </a>
   
