@@ -4,13 +4,15 @@ collection: publications
 permalink: /publications/preprints/biaslab
 date: 2025-05-23
 year: 2025
-venue: 'arXiv'
-venue-type: 'Preprint'
+venue: 'ICML MoFA'
+venue-type: 'Poster'
 research-category: 'Human-aligned Systems'
 website-separation-category: 'c4'
 
 link: 'https://doi.org/10.48550/arXiv.2505.16081'
-pdf: 'https://arxiv.org/pdf/2505.16081'
+pdf: '/files/publications/icml2025_biaslab_camera_ready.pdf'
+poster: '/files/publications/icml2025_biaslab-poster-final.pdf'
+#'https://arxiv.org/pdf/2505.16081'
 
 ## code: 'https://doi.org/10.7910/DVN/BEKPWV'
 
