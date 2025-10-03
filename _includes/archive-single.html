@@ -67,7 +67,7 @@
             <!-- <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> -->
             [<a href="{{ post.link }}">URL</a>]
           {% endif %}
-
+          
           <!-- replacing paperurl to pdf -->
           <!-- {% if post.paperurl %}       
             <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
@@ -78,6 +78,11 @@
           {% if post.poster %}       
             [<a href="{{ post.poster }}">Poster</a>]
           {% endif %}
+          {% if post.openreview %}
+            <!-- <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> -->
+            [<a href="{{ post.openreview }}">OpenReview</a>]
+          {% endif %}
+
 
           {% if post.versionlink %}
             <!-- <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> -->
