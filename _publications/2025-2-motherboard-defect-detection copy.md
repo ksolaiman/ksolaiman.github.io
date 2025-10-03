@@ -1,13 +1,16 @@
 ---
-title: "BoardVision: Real-Time Motherboard Defect Detection using YOLOv7 and Faster R-CNN"
+title: 'BoardVision: Deployment-ready and Robust Motherboard Defect Detection with Ensemble'
+#"BoardVision: Real-Time Motherboard Defect Detection using YOLOv7 and Faster R-CNN"
 collection: publications 
 permalink: /publications/symposiums-posters/boardvision-2025
 date: 2025-05-02
 year: 2025
-venue: 'UMBC CSEE Research Day'
+venue: 'Submitted to WACV'
+notes: 'Presented at UMBC CSEE Research Day'
 venue-type: 'Poster'
 research-category: 'Novelty Aware System'
 website-separation-category: 'c4'
+pdf: '/files/publications/WACV_BoardVision.pdf'
 poster: '/files/publications/boardvision-2025.pdf' 
 
 # link: 'http://dx.doi.org/10.13140/RG.2.2.16612.04484'

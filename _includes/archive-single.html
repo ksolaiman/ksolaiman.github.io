@@ -143,15 +143,19 @@
         <!-- <b><i style="color:rgb(1, 14, 26)">{{ post.venue }}</i></b> -->
         <!-- <b style="color:rgb(1, 14, 26)">{{ post.venue }} {{ post.year }}</b> -->
         <b>{{ post.venue }} {{ post.year }}</b>
+          {% if post.notes %}
+            <i style="color:rgb(1, 14, 26)">; {{ post.notes }}</i> 
+          {% endif %}
+        <br>
       {% endif %}
       <!-- {% if post.year %}
         <b><i style="color:rgb(1, 14, 26)">{{ post.year }}</i></b>
       {% endif %} -->
-      <br>
+      <!-- <br>
       {% if post.notes %}
-        <b><i style="color:rgb(1, 14, 26)">Previously submitted in  {{ post.notes }}</i></b>
+        <b><i style="color:rgb(1, 14, 26)">{{ post.notes }}</i></b>
       {% endif %}
-      <!-- <br> --> 
+      <br>  -->
 
       <!-- &nbsp; -->
       <span class="author">
