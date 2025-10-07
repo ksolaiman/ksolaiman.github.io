@@ -17,7 +17,7 @@ poster: '/files/publications/icml2025_biaslab-poster-final.pdf'
 ## code: 'https://doi.org/10.7910/DVN/BEKPWV'
 
 authors: 'KMA Solaiman'
-citation: 'Solaiman, KMA (2025). BiasLab: Toward explainable political bias detection with dual-axis annotations and rationale indicators. arXiv. https://arxiv.org/abs/2505.16081'
+citation: 'Solaiman, KMA (2025). BiasLab: Toward explainable political bias detection with dual-axis annotations and rationale indicators. Presented at 2nd Workshop on Models of Human Feedback for AI Alignment (MoFA) at ICML 2025. https://arxiv.org/abs/2505.16081'
 # poster
 # pdf
 # dataset
