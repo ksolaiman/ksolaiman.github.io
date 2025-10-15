@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/preprints/ai-domain-complexity
 # date: 2020-06-08
 year: 2024
-venue: 'Submitted to IEEE TAI'
+venue: 'Submitted to IEEE CogMI'
 venue-type: 'Preprint'
 research-category: 'Novelties in Learning Algorithms'
 
@@ -26,5 +26,5 @@ authors: 'Shafkat Islam*, <b><u>K.M.A. Solaiman*</u></b>,  Ruy De Oliveira, Bhar
 # talk/ video
 # source code
 # award
-notes: Journal of AI'23
+notes: # IEEE TAI'24, Journal of AI'23
 ---

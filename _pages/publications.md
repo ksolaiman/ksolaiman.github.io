@@ -10,8 +10,8 @@ author_profile: true
 {% if site.author.googlescholar %}
  <!-- <button class="btn--warning"> You can also find my publications on <a href="{{ author.googlescholar }}">Google Scholar</a>. </button>  -->
  > <b>You can also find my publications on <a href="{{ site.author.googlescholar }}">Google Scholar</a>. 
- <br> 
- (* denotes equal contribution)
+ <!-- <br> 
+ (* denotes equal contribution) -->
 {% endif %}
 <!-- <h2>(* denotes equal contribution) </h2>  -->
 
