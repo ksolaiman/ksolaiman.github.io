@@ -133,6 +133,7 @@ Students may also propose related projects in areas such as:
 ### ✳️ Attribution & Ethics  
 All course projects must use **publicly available datasets** and **independently written code**.  
 Outstanding work may later be extended for academic publication under H.A.R.M.O.N.I. Lab supervision with appropriate student credit or acknowledgement.
+Any resulting models, embeddings, or visualizations may not be reused externally without permission from instructor.
 
 ---
 
