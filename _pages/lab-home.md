@@ -88,6 +88,55 @@ Our work is organized into **three core clusters**, each linked to active 📌 [
 <!-- <iframe src="/publications/" width="100%" height="1600px" style="border:none;"></iframe> -->
 
 
+## Course-Based Research Topics (CMSC 678 / CMSC 471 / CMSC 478)
+
+Students in my courses occasionally pursue independent or group research projects that align with the **H.A.R.M.O.N.I. Lab**’s core research clusters.  
+These topics are *examples of open project directions* that students may select or adapt for future semesters.  
+Each will be scoped appropriately for course credit and designed around public data and independent code.
+
+---
+
+### 🔹 Causal Summarization of Safety Narratives  
+**Cluster:** Multimodal Interpretability & Reasoning (H.A.R.M.O.N.I. Cluster 2)  
+Explore how large language models (LLMs) can summarize and extract causal or contributing factors from publicly available safety reports or incident narratives.  
+*Focus:* prompting design, summarization quality, and interpretable causal reasoning.  
+*(Uses public datasets only; conducted under H.A.R.M.O.N.I. Lab supervision for educational and exploratory research.)*
+
+---
+
+### 🔹 Novelty Detection in Smart-Infrastructure Sensor Data  
+**Cluster:** Resilient & Novelty-Aware AI Systems (H.A.R.M.O.N.I. Cluster 3)  
+Investigate methods for identifying unusual events or rare patterns in open traffic-sensor datasets using independently developed code.  
+*Focus:* novelty detection, temporal patterning, and visualization of rare behaviors.  
+*(Independent codebase and open data only.)*
+
+
+---
+
+### 🔹 Survey + Evaluation of Sensor–Text Embedding Spaces
+**Cluster:** Multimodal Representation Alignment (H.A.R.M.O.N.I. Cluster 1)   
+Examine how numerical sensor data (e.g., EEG or motion signals) and natural-language descriptions can be represented and compared in a shared latent space.   
+*Focus: cross-modal embedding geometry, metric robustness, and visualization of alignment patterns.*    
+<!-- (cosine, DTW, correlation) -->
+*(Uses public time-series datasets; conducted under H.A.R.M.O.N.I. Lab supervision for educational and exploratory research.)*
+
+---
+
+<!-- ### 🔹 Additional Topics  
+Students may also propose related projects in areas such as:  
+- Human-Centered Reasoning and Decision Support  
+- Multimodal Retrieval and Alignment  
+- Trustworthy AI in Critical Systems   -->
+
+<!-- --- -->
+
+### ✳️ Attribution & Ethics  
+All course projects must use **publicly available datasets** and **independently written code**.  
+Outstanding work may later be extended for academic publication under H.A.R.M.O.N.I. Lab supervision with appropriate student credit or acknowledgement.
+
+---
+
+
 ## Join the Lab
 
 We welcome students who are curious, motivated, and eager to build practical AI systems that tackle real-world complexity. Your time is valuable, and we strive to ensure that your contributions are recognized — through course credit, funding, or formal research roles.
