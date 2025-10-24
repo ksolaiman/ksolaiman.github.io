@@ -4,7 +4,8 @@ internal-link: novelty-adaptive-smart-grid-control
 research-category: 'Novelties in Systems'
 layout: none
 description: "Designing a predictive divergence–based novelty detection and adaptive planning framework for smart electric grids. This system guides real-time control actions in uncertain operational scenarios and performs triage."
-researchers: "KMA Solaiman (PI), Leann Alhashshi"
+researchers: "KMA Solaiman (PI), Sumya Hamid Oishi"
+# Leann Alhashshi
 # website-separation-category: 'c3'
 rank: 1
 publication_slug: 

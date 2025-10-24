@@ -41,13 +41,15 @@ Our work is organized into **three core clusters**, each linked to active 📌 [
 
 - **Human-Centered Decision Systems**  
   Supporting real-world users with interpretable, context-aware AI for safety, health, and preferences.  
-  📌 [Adaptive Prediction in Triage & Finance](#triage-and-stock-market) • [Human-Centered Reasoning](#human-centered-reasoning)
-  <!-- supporting real-time decisions or interfacing with end-users  -->
-  - **Human-Centered NLP and Subjective Bias**  
-    We investigate framing bias, stance perception, and subjective disagreement in human and LLM annotations. This includes media bias, political framing, and annotation typologies grounded in social and linguistic theory.  
+  <!-- - **Human-Centered NLP and Subjective Bias**  -->
+  Furthermore, <b>in unstructured text</b>, we investigate framing bias, stance perception, and subjective disagreement in human and LLM annotations. This includes media bias, political framing, and annotation typologies grounded in social and linguistic theory.  
+  📌 [Adaptive Prediction in Triage & Finance](#triage-and-stock-market) • [Human-Centered Reasoning](#human-centered-reasoning) <br>
+  <!-- - **Human-Centered NLP and Subjective Bias**  
+    We investigate framing bias, stance perception, and subjective disagreement in human and LLM annotations. This includes media bias, political framing, and annotation typologies grounded in social and linguistic theory.   -->
     📌 [BiasLab: Explainable Political Bias Detection](#political-bias-1)
-     <!-- • [Human Attribute Recognition from Unstructured Text]() -->
+     • [Human Attribute Recognition from Unstructured Text]()
 
+<!-- supporting real-time decisions or interfacing with end-users  -->
 ---
 
 ### Applications We Explore
@@ -97,7 +99,7 @@ Each will be scoped appropriately for course credit and designed around public d
 ---
 
 ### 🔹 Causal Summarization of Safety Narratives  
-**Cluster:** Multimodal Interpretability & Reasoning (H.A.R.M.O.N.I. Cluster 2)  
+**Cluster:** Multimodal Interpretability & Reasoning (H.A.R.M.O.N.I. Cluster 3)  
 Explore how large language models (LLMs) can summarize and extract causal or contributing factors from publicly available safety reports or incident narratives.  
 *Focus:* prompting design, summarization quality, and interpretable causal reasoning.  
 *(Uses public datasets only; conducted under H.A.R.M.O.N.I. Lab supervision for educational and exploratory research.)*
@@ -105,7 +107,7 @@ Explore how large language models (LLMs) can summarize and extract causal or con
 ---
 
 ### 🔹 Novelty Detection in Smart-Infrastructure Sensor Data  
-**Cluster:** Resilient & Novelty-Aware AI Systems (H.A.R.M.O.N.I. Cluster 3)  
+**Cluster:** Resilient & Novelty-Aware AI Systems (H.A.R.M.O.N.I. Cluster 1)  
 Investigate methods for identifying unusual events or rare patterns in open traffic-sensor datasets using independently developed code.  
 *Focus:* novelty detection, temporal patterning, and visualization of rare behaviors.  
 *(Independent codebase and open data only.)*
@@ -114,7 +116,7 @@ Investigate methods for identifying unusual events or rare patterns in open traf
 ---
 
 ### 🔹 Survey + Evaluation of Sensor–Text Embedding Spaces
-**Cluster:** Multimodal Representation Alignment (H.A.R.M.O.N.I. Cluster 1)   
+**Cluster:** Multimodal Representation Alignment (H.A.R.M.O.N.I. Cluster 2)   
 Examine how numerical sensor data (e.g., EEG or motion signals) and natural-language descriptions can be represented and compared in a shared latent space.   
 *Focus: cross-modal embedding geometry, metric robustness, and visualization of alignment patterns.*    
 <!-- (cosine, DTW, correlation) -->
