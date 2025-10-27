@@ -1,5 +1,6 @@
 ---
-title: "From Anomaly to Novelty: Active Detection and Adaptive Response in Smart Grids"
+# title: "From Anomaly to Novelty: Active Detection and Adaptive Response in Smart Grids"
+title: "NovGrid: Novelty-Aware Smart-Grid Resilience"
 collection: publications 
 permalink: /publications/symposiums-posters/novelty-aware-smart-electric-grid
 date: 2025-05-02
