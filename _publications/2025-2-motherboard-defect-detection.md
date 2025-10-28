@@ -6,7 +6,7 @@ permalink: /publications/symposiums-posters/boardvision-2025
 date: 2025-05-02
 year: 2026
 venue: 'Submitted to WACV'
-notes: 'Presented at UMBC CSEE Research Day'
+notes: 'Presented at UMBC CSEE Research Day 2025'
 venue-type: 'Poster'
 research-category: 'Novelty Aware System'
 website-separation-category: 'c4'
