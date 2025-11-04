@@ -10,8 +10,8 @@ notes: 'Presented at UMBC CSEE Research Day'
 venue-type: 'Preprint'
 research-category: 'Novelty Aware System'
 website-separation-category: 'c4'
-pdf: '/files/publications/NovASGrid-ICDM-ARRL-camera-ready.pdf'
-poster: '/files/publications/Novelty-Aware-Smart-Grids-2025.pdf' 
+# pdf: '/files/publications/NovASGrid-ICDM-ARRL-camera-ready.pdf'
+# poster: '/files/publications/Novelty-Aware-Smart-Grids-2025.pdf' 
 
 # link: 'http://dx.doi.org/10.13140/RG.2.2.16612.04484'
 
