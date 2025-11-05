@@ -1,7 +1,20 @@
 # For reliable chronological sorting, consider converting date into YYYY-MM format internally if needed.
 
+- date: 2025-11-01
+  text: Submitted application for NAIRR AI Education Fellowship at CRA
+
+- date: 2025-10-31
+  text: Submitted Hrabowski Fund for Innovation (SoTL Track) proposal “Integrating Annotation and Reflection Modules into AI Ethics Education.”
+
+- date: 2025-10-16
+  text: <a href="https://arxiv.org/abs/2510.14389"> <b>BoardVision</b> - Deployment-ready Motherboard Defect Detection with Ensemble </a> (Hill & Solaiman), now on arXiv, under review at WACV 2026 Applications Track.
+
+- date: 2025-09-30
+  text: <a href="https://arxiv.org/abs/2510.14389"> <b>TriageM</b> - Bridging Hospital-Rich and MCI-Like Field Simulation </a> (Sebastian, Tobden & Solaiman), now on arXiv, originally submitted to GenAI4Health @ NeurIPS 2025.
+
+
 - date: 2025-06-10
-  text: <a href="https://arxiv.org/abs/2505.16081">BiasLab </a> acceped at the MoFA Workshop in ICML 2025
+  text: <a href="https://arxiv.org/abs/2505.16081"> <b> BiasLab </b></a> acceped at the MoFA Workshop in ICML 2025
   
 - date: 2025-05-09
   text: Completed the requirements for <a href="https://calt.umbc.edu/learning-communities/alit-certificate-program/">Active Learning, Inquiry Teaching (ALIT) certificate program </a>
