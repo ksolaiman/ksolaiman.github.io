@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/preprints/biaslab
 date: 2025-05-23
 year: 2025
-venue: 'Presented at ICML MoFA'
+venue: '(Peer reviewed) Accepted and Presented at ICML MoFA'
 venue-type: 'Poster'
 research-category: 'Human-aligned Systems'
 website-separation-category: 'c4'
