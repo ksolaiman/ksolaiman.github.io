@@ -12,7 +12,7 @@ website-separation-category: 'c4'
 
 pdf: '/files/publications/FedComplex.pdf'
 
-link: 'http://dx.doi.org/10.13140/RG.2.2.14853.63204'
+link: 'https://www.researchgate.net/publication/367652116_Domain_Complexity_Estimation_in_Perception_Domain'  # 'http://dx.doi.org/10.13140/RG.2.2.14853.63204'
 
 # code: 'https://doi.org/10.7910/DVN/BEKPWV'
 
