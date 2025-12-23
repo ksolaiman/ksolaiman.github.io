@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/preprints/ai-domain-complexity
 # date: 2020-06-08
 year: 2026
-venue: 'Submitted to Edge AI'
+venue: 'Under Review at Edge AI'
 venue-type: 'Preprint'
 research-category: 'Novelties in Learning Algorithms'
 

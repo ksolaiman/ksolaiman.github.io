@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/preprints/traigem
 date: 2025-09-06
 year: 2025
-venue: 'Submitted to GenAI4Health at NeurIPS'
+venue: 'Submitted to NeurIPS GenAI4Health'
 venue-type: 'Preprint'
 research-category: 'Human-aligned Systems'
 website-separation-category: 'c4'
@@ -19,7 +19,7 @@ openreview: 'https://openreview.net/forum?id=WDgTVW99Ft&noteId=ddl4oyFED6'
 
 authors: 'Joshua Sebastian, Karma Tobden, and KMA Solaiman'
 citation: 'Sebastian, J., Tobden, K. \& Solaiman, K. LLM-Assisted Emergency Triage Benchmark: Bridging Hospital-Rich and MCI-Like Field Simulation.  (2025), https://arxiv.org/abs/2509.26351'
-notes: '(Rejected - reviewer scores: 4 and 5)'
+notes: # '(Rejected - reviewer scores: 4 and 5)'
 # poster
 # pdf
 # dataset
