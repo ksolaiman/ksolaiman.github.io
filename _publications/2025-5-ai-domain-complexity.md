@@ -16,7 +16,7 @@ link: 'https://www.researchgate.net/publication/367652116_Domain_Complexity_Esti
 
 # code: 'https://doi.org/10.7910/DVN/BEKPWV'
 
-authors: '<b><u>K.M.A. Solaiman*</u></b>, Shafkat Islam*,  Ruy De Oliveira, Bharat Bhargava'
+authors: '<b>KMA Solaiman*</b>, Shafkat Islam*,  Ruy De Oliveira, Bharat Bhargava'
 
 # citation: 'K. M. A. Solaiman, M. M. Rahman and N. Shahriar, "AVRA Bangladesh collection, analysis & visualization of road accident data in Bangladesh," 2013 International Conference on Informatics, Electronics and Vision (ICIEV), 2013, pp. 1-6, doi: 10.1109/ICIEV.2013.6572632.'
 # poster
