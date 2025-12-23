@@ -1,4 +1,4 @@
-_site/*
+_site/
 .DS_Store
 default_ones_for_seeing_style/
 vendor/bundle/ruby/*

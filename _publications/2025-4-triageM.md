@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/preprints/traigem
 date: 2025-09-06
 year: 2025
-venue: 'Submitted to NeurIPS GenAI4Health'
+venue: 'Peer-reviewed at NeurIPS GenAI4Health'
 venue-type: 'Preprint'
 research-category: 'Human-aligned Systems'
 website-separation-category: 'c4'
