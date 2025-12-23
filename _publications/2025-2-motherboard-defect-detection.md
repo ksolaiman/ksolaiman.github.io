@@ -4,7 +4,7 @@ title: 'BoardVision: Deployment-ready and Robust Motherboard Defect Detection wi
 collection: publications 
 permalink: /publications/symposiums-posters/boardvision-2025
 date: 2025-05-02
-year: 2026
+year: 2026 (Rejected - 2 accepts, 2 rejects)
 venue: 'Submitted to WACV'
 notes: 'Presented at UMBC CSEE Research Day 2025'
 venue-type: 'Poster'
