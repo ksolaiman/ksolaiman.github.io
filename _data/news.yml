@@ -1,5 +1,11 @@
 # For reliable chronological sorting, consider converting date into YYYY-MM format internally if needed.
 
+- date: 2026-01-15
+  text: <a href="https://ksolaiman.github.io/files/publications/FedComplex.pdf"> <b> Paper</b></a> accepted for presentation at the Edge AI San Diego Research Symposium 2026.
+
+- date: 2026-01-10
+  text: Serving as PC Member, XAI World Conference 2026.
+
 - date: 2025-11-01
   text: Submitted application for NAIRR AI Education Fellowship at CRA
 
