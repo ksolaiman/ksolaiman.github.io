@@ -7,7 +7,7 @@ year: 2025
 venue: 'Peer-reviewed at NeurIPS GenAI4Health'
 venue-type: 'Preprint'
 research-category: 'Human-aligned Systems'
-website-separation-category: 'c4'
+website-separation-category: 'c-1'
 
 link: 'https://arxiv.org/abs/2509.26351'
 pdf: 'https://arxiv.org/pdf/2509.26351'
