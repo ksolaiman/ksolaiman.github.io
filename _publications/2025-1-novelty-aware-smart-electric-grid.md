@@ -4,11 +4,11 @@ title: "NovASGrid: Novelty-Aware Smart-Grid Resilience"
 collection: publications 
 permalink: /publications/symposiums-posters/novelty-aware-smart-electric-grid
 date: 2025-05-02
-year: Preprint, 2025 # (subsequently withdrawn prior to publication) # not published
-venue: '' # 'Peer-reviewed and accepted at ICDM-ARRL'
-notes: # 'Presented at UMBC CSEE Research Day'
+year: 2025 # (subsequently withdrawn prior to publication) # not published
+venue: 'Preprint' # 'ICDM ARRL' # 'Peer-reviewed and accepted at ICDM-ARRL'
+# notes: 'Preprint 2025' # 'Presented at UMBC CSEE Research Day'
 venue-type: 'Preprint'
-research-category: 'Novelty Aware System'
+research-category: 'Robustness in Deployed Systems' # 'Novelty Aware System'
 website-separation-category: 'c4'
 # pdf: '/files/publications/NovASGrid-ICDM-ARRL-camera-ready.pdf'
 # poster: '/files/publications/Novelty-Aware-Smart-Grids-2025.pdf' 
