@@ -4,9 +4,9 @@ collection: publications
 permalink: /publications/preprints/traigem
 date: 2026-02-09
 year: 2026
-venue: 'Submitted to IEEE ICHI'
-venue-type: 'Preprint'
-research-category: 'Human-aligned Systems'
+venue: 'IEEE ICHI'
+venue-type: 'Conference'
+research-category: 'Robustness in Deployed Systems' # 'Human-alligned Systems'
 website-separation-category: 'c4'
 
 link: 'https://arxiv.org/html/2602.20168v1'

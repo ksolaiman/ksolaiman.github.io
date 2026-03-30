@@ -5,10 +5,10 @@ collection: publications
 permalink: /publications/symposiums-posters/boardvision-2025
 date: 2025-05-02
 year: 2026 # (Rejected - 2 accepts, 2 rejects)
-venue: 'Peer-reviewed at WACV Applications Track'
+venue: 'Previously submitted at WACV Applications' #  Track
 notes: 'Presented at UMBC CSEE Research Day 2025'
 venue-type: 'Poster'
-research-category: 'Novelty Aware System'
+research-category: 'Robustness in Deployed Systems' #'Novelty Aware System'
 website-separation-category: 'c4'
 pdf: '/files/publications/WACV_BoardVision.pdf'
 poster: '/files/publications/boardvision-2025.pdf' 

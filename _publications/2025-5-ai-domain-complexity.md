@@ -4,19 +4,20 @@ collection: publications
 permalink: /publications/preprints/ai-domain-complexity
 # date: 2020-06-08
 year: 2026
-venue: 'Accepted at Edge AI'
-venue-type: 'Preprint'
-research-category: 'Novelties in Learning Algorithms'
+venue: 'Edge AI'
+venue-type: 'Symposium'
+research-category: 'Robustness in Learning Algorithms'
 
 website-separation-category: 'c4'
 
 pdf: '/files/publications/FedComplex.pdf'
-
-link: 'https://www.researchgate.net/publication/367652116_Domain_Complexity_Estimation_in_Perception_Domain'  # 'http://dx.doi.org/10.13140/RG.2.2.14853.63204'
+poster: '/files/publications/EdgeAI-Solaiman-FedComplex-poster.pdf'
+link: 'https://site.pheedloop.com/event/sandiego2026/sessions/SESSGJFI4GYVZFQ27'
+#'https://www.researchgate.net/publication/367652116_Domain_Complexity_Estimation_in_Perception_Domain'  # 'http://dx.doi.org/10.13140/RG.2.2.14853.63204'
 
 # code: 'https://doi.org/10.7910/DVN/BEKPWV'
 
-authors: '<b>KMA Solaiman*</b>, Shafkat Islam*,  Ruy De Oliveira, Bharat Bhargava'
+authors: 'KMA Solaiman, Shafkat Islam,  Ruy De Oliveira, Bharat Bhargava'
 
 # citation: 'K. M. A. Solaiman, M. M. Rahman and N. Shahriar, "AVRA Bangladesh collection, analysis & visualization of road accident data in Bangladesh," 2013 International Conference on Informatics, Electronics and Vision (ICIEV), 2013, pp. 1-6, doi: 10.1109/ICIEV.2013.6572632.'
 # poster
