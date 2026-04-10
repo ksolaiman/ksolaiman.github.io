@@ -11,7 +11,7 @@ research-category: 'Robustness in Learning Algorithms'
 website-separation-category: 'c4'
 
 pdf: 'https://arxiv.org/abs/2603.28282' # '/files/publications/FedComplex.pdf'
-presentation: '/files/publications/EdgeAI-Solaiman-FedComplex-presentation.pdf'
+talk: '/files/publications/EdgeAI-Solaiman-FedComplex-presentation.pdf'
 link: 'https://site.pheedloop.com/event/sandiego2026/sessions/SESSGJFI4GYVZFQ27'
 #'https://www.researchgate.net/publication/367652116_Domain_Complexity_Estimation_in_Perception_Domain'  # 'http://dx.doi.org/10.13140/RG.2.2.14853.63204'
 
