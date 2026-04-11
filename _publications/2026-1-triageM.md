@@ -11,7 +11,7 @@ website-separation-category: 'c4'
 
 link: 'https://arxiv.org/html/2602.20168v2'
 pdf: 'https://arxiv.org/abs/2602.20168'
-# poster: '/files/publications/icml2025_biaslab-poster-final.pdf'
+poster: '/files/publications/triagem_poster-final.pdf'
 #'https://arxiv.org/pdf/2505.16081'
 # openreview: 'https://openreview.net/forum?id=WDgTVW99Ft&noteId=ddl4oyFED6'
 
