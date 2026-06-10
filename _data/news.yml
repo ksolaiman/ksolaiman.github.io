@@ -1,33 +1,36 @@
 # For reliable chronological sorting, consider converting date into YYYY-MM format internally if needed.
 - date: 2026-06-03
-  text: Joshua presented our paper on <a href="https://arxiv.org/abs/2602.20168">Triage under constrained sensing</a> at the IEEE ICHI 2026.
+  text: H.A.R.M.O.N.I. Lab undergraduate researcher <b> Joshua Sebastian </b> presented our paper on <a href="https://arxiv.org/abs/2602.20168">Triage under Constrained Sensing</a> at the IEEE ICHI 2026.
 
 - date: 2026-05-15
   text: Submitted an Amazon Research Awards proposal under the Amazon 2030 initiative.
 
 - date: 2026-04-28
-  text: Joshua was awarded a travel grant from <b>UMBC Undergraduate Research and Prestigious Scholarships</b> for presenting at IEEE ICHI 2026. 
+  text: H.A.R.M.O.N.I. Lab undergraduate researcher <b> Joshua Sebastian </b> was awarded a travel grant from <b>UMBC Undergraduate Research and Prestigious Scholarships</b> for presenting at IEEE ICHI 2026. 
 
 - date: 2026-04-27
-  text: Ramya Pal from Dulaney High School (K-12), presented her work on <b>Finding Missing Person Information from Text</b>.
+  text: H.A.R.M.O.N.I. Lab high school researcher <b> Ramya Pal </b> from Dulaney High School (K-12), presented her work on <b>Finding Missing Person Information from Text</b>.
 
 - date: 2026-04-23
   text: Invited to serve as Program Committee Member for ICDE 2027 (second consecutive year).
            
 - date: 2026-04-12
-  text: Joshua and Karma just won the <b>undergraduate best paper award</b> for our paper on <a href="https://arxiv.org/abs/2602.20168">Triage under constrained sensing</a> at the <b> UMBC CSEE Research Day 2026</b>.
+  text: H.A.R.M.O.N.I. Lab undergraduate researchers <b> Joshua Sebastian </b>  and <b>Karma Tobden</b> received the <b>Undergraduate Best Paper Award</b> at the UMBC CSEE Research Day 2026 for their work on <a href="https://arxiv.org/abs/2602.20168">Triage under Constrained Sensing</a>.
 
 - date: 2026-03-26
-  text: Paper on <a href="https://arxiv.org/abs/2602.20168">Triage under constrained sensing</a> was just accepted at the <b>IEEE ICHI 2026</b>.
+  text: Our paper, <a href="https://arxiv.org/abs/2602.20168">“Triage under Constrained Sensing,”</a> was accepted for presentation at <b>IEEE ICHI 2026</b>.
 
 - date: 2026-03-24
-  text: We presented<a href="https://ksolaiman.github.io/files/publications/FedComplex.pdf"> <b> FedComplex</b></a> at Edge AI 2026 in San Diego.
+  text: Presented <a href="https://ksolaiman.github.io/files/publications/FedComplex.pdf"> <b> FedComplex</b></a> at Edge AI 2026 in San Diego.
+
+- date: 2026-01-29
+  text: H.A.R.M.O.N.I. Lab graduate student <b>Sumya Hamid Oishe</b> completed her M.S. project on <i>"Anomaly Detection for Irregular and Incomplete Time Series in Cyber-Physical Systems,"</i> and graduated with an <b>M.Sc. in Computer Science</b> from UMBC.
 
 - date: 2026-01-15
   text: <a href="https://ksolaiman.github.io/files/publications/FedComplex.pdf"> <b> Paper</b></a> accepted for presentation at the Edge AI San Diego Research Symposium 2026.
 
 - date: 2026-01-10
-  text: Serving as PC Member, XAI World Conference 2026.
+  text: Served as a Program Committee Member for the XAI World Conference 2026.
 
 # - date: 2025-11-01
 #   text: Submitted application for NAIRR AI Education Fellowship at CRA
@@ -46,13 +49,13 @@
 
 
 - date: 2025-06-10
-  text: <a href="https://arxiv.org/abs/2505.16081"> <b> BiasLab </b></a> acceped at the MoFA Workshop at ICML 2025
+  text: <a href="https://arxiv.org/abs/2505.16081"> <b> BiasLab </b></a> accepted at the <b> MoFA Workshop at ICML 2025 </b>.
   
 # - date: 2025-05-09
 #   text: Completed the requirements for <a href="https://calt.umbc.edu/learning-communities/alit-certificate-program/">Active Learning, Inquiry Teaching (ALIT) certificate program </a>
   
 - date: 2025-05-08
-  text: Adam Sayeed submitted his application for <a href="https://ur.umbc.edu/ura/"> Undergraduate Research Award </a>
+  text: H.A.R.M.O.N.I. Lab student researcher Adam Sayeed applied for <a href="https://ur.umbc.edu/ura/"> Undergraduate Research Award </a> for his work on Multimodal Stock Market Analysis.
 
 # - date: 2025-05-08
 #   text: Invited Guest Lecture from Patty Delafuente on "Prompt Engineering"
@@ -64,7 +67,7 @@
   text: H.A.R.M.O.N.I. Lab website officially launched
 
 - date: 2025-05-02
-  text: Presented two posters at UMBC CSEE Day
+  text: H.A.R.M.O.N.I. Lab researchers presented two posters at UMBC CSEE Research Day 2025.
 
 - date: 2025-04-28
   text: Submitted M.O.S.T. grant for AI/ML OER curriculum at UMBC
