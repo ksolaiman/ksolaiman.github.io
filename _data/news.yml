@@ -29,11 +29,11 @@
 - date: 2026-01-10
   text: Serving as PC Member, XAI World Conference 2026.
 
-- date: 2025-11-01
-  text: Submitted application for NAIRR AI Education Fellowship at CRA
+# - date: 2025-11-01
+#   text: Submitted application for NAIRR AI Education Fellowship at CRA
 
-- date: 2025-10-31
-  text: Submitted Hrabowski Fund for Innovation (SoTL Track) proposal “Integrating Annotation and Reflection Modules into AI Ethics Education.”
+# - date: 2025-10-31
+#   text: Submitted Hrabowski Fund for Innovation (SoTL Track) proposal “Integrating Annotation and Reflection Modules into AI Ethics Education.”
 
 - date: 2025-10-16
   text: <a href="https://arxiv.org/abs/2510.14389"> <b>BoardVision</b> - Deployment-ready Motherboard Defect Detection with Ensemble </a> (Hill & Solaiman), now on arXiv, under review at WACV 2026 Applications Track.
@@ -48,17 +48,17 @@
 - date: 2025-06-10
   text: <a href="https://arxiv.org/abs/2505.16081"> <b> BiasLab </b></a> acceped at the MoFA Workshop at ICML 2025
   
-- date: 2025-05-09
-  text: Completed the requirements for <a href="https://calt.umbc.edu/learning-communities/alit-certificate-program/">Active Learning, Inquiry Teaching (ALIT) certificate program </a>
+# - date: 2025-05-09
+#   text: Completed the requirements for <a href="https://calt.umbc.edu/learning-communities/alit-certificate-program/">Active Learning, Inquiry Teaching (ALIT) certificate program </a>
   
 - date: 2025-05-08
   text: Adam Sayeed submitted his application for <a href="https://ur.umbc.edu/ura/"> Undergraduate Research Award </a>
 
-- date: 2025-05-08
-  text: Invited Guest Lecture from Patty Delafuente on "Prompt Engineering"
+# - date: 2025-05-08
+#   text: Invited Guest Lecture from Patty Delafuente on "Prompt Engineering"
 
-- date: 2025-05-07
-  text: Invited Guest Lecture from Dr. Lara Martin on "Bias in NLP/AI"
+# - date: 2025-05-07
+#   text: Invited Guest Lecture from Dr. Lara Martin on "Bias in NLP/AI"
 
 - date: 2025-05-04
   text: H.A.R.M.O.N.I. Lab website officially launched
@@ -82,4 +82,4 @@
   text: Began second year as Assistant Teaching Professor at UMBC
 
 - date: 2024-08-28
-  text: teaching Graduate ML (CMSC 678) at UMBC
+  text: started teaching Graduate ML (CMSC 678) at UMBC
