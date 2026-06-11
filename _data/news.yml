@@ -1,6 +1,6 @@
 # For reliable chronological sorting, consider converting date into YYYY-MM format internally if needed.
 - date: 2026-06-03
-  text: H.A.R.M.O.N.I. Lab undergraduate researcher <b> Joshua Sebastian </b> presented our paper on <a href="https://arxiv.org/abs/2602.20168">Triage under Constrained Sensing</a> at the IEEE ICHI 2026.
+  text: H.A.R.M.O.N.I. Lab undergraduate researcher <b> Joshua Sebastian </b> presented our paper on <a href="https://arxiv.org/abs/2602.20168">Triage under Constrained Sensing</a> at the IEEE ICHI 2026. <a href="images/lab-pictures/joshua-ichi-26.jpeg" target="_blank" rel="noopener noreferrer" style="color:#2563eb;"><b>[Photos]</b></a>
 
 - date: 2026-05-15
   text: Submitted an Amazon Research Awards proposal under the Amazon 2030 initiative.
@@ -9,13 +9,16 @@
   text: H.A.R.M.O.N.I. Lab undergraduate researcher <b> Joshua Sebastian </b> was awarded a travel grant from <b>UMBC Undergraduate Research and Prestigious Scholarships</b> for presenting at IEEE ICHI 2026. 
 
 - date: 2026-04-27
-  text: H.A.R.M.O.N.I. Lab high school researcher <b> Ramya Pal </b> from Dulaney High School (K-12), presented her work on <b>Finding Missing Person Information from Text</b>.
+  text: H.A.R.M.O.N.I. Lab high school researcher <b> Ramya Pal </b> from Dulaney High School (K-12), presented her work on <b>Finding Missing Person Information from Text</b>. <a href="images/lab-pictures/Ramya-Missing_People-26.jpeg" target="_blank" rel="noopener noreferrer" style="color:#2563eb;"><b>[Photos]</b></a>
 
 - date: 2026-04-23
   text: Invited to serve as Program Committee Member for ICDE 2027 (second consecutive year).
            
+# - date: 2026-04-28
+#   text: <a href="https://arxiv.org/abs/2602.20168">Triage under Constrained Sensing</a> was presented as a poster at the UMBC COEIT Day 2026.
+
 - date: 2026-04-12
-  text: H.A.R.M.O.N.I. Lab undergraduate researchers <b> Joshua Sebastian </b>  and <b>Karma Tobden</b> received the <b>Undergraduate Best Paper Award</b> at the UMBC CSEE Research Day 2026 for their work on <a href="https://arxiv.org/abs/2602.20168">Triage under Constrained Sensing</a>.
+  text: H.A.R.M.O.N.I. Lab undergraduate researchers <b> Joshua Sebastian </b>  and <b>Karma Tobden</b> presented <a href="https://arxiv.org/abs/2602.20168">Triage under Constrained Sensing</a> at the UMBC CSEE Research Day 2026, and received the <b>Undergraduate Best Paper Award. </b> <a href="/images/gallery/CRD2026.html" target="_blank"> <b>[Photos]</b> </a>
 
 - date: 2026-03-26
   text: Our paper, <a href="https://arxiv.org/abs/2602.20168">“Triage under Constrained Sensing,”</a> was accepted for presentation at <b>IEEE ICHI 2026</b>.
